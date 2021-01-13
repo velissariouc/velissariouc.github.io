@@ -1,0 +1,6321 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Teachers_Timetable>
+  <Teacher name="ΑΝΑΣΤΑΣΙΟΥ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Νέα Ελ"></Subject><Students name="Α3"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Νέα Ελ"></Subject><Students name="Α3"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 6η)"></Activity_Tag><Students name="ΓΔ"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 6η)"></Activity_Tag><Students name="ΓΔ"></Students>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Νέα Ελ"></Subject><Students name="Α3"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Νέα Ελ"></Subject><Students name="Α3"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΑΝΑΣΤΑΣΟΠΟΥΛΟΣ">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Subject name="Άλγ"></Subject><Students name="ΒΥ1"></Students>
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Γεωμ"></Subject><Students name="ΒΥ1"></Students>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Άλγ"></Subject><Students name="ΒΥ2"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Άλγ"></Subject><Students name="ΒΥ1"></Students>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Γεωμ"></Subject><Students name="ΒΥ3"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Άλγ"></Subject><Students name="ΒΥ3"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Γεωμ"></Subject><Students name="ΒΥ2"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Άλγ"></Subject><Students name="ΒΠ1"></Students><Students name="ΒΠ2"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Άλγ"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Άλγ"></Subject><Students name="ΒΥ4"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Άλγ"></Subject><Students name="ΒΥ3"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Άλγ"></Subject><Students name="ΒΥ4"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Άλγ"></Subject><Students name="ΒΥ2"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Άλγ"></Subject><Students name="ΒΠ1"></Students><Students name="ΒΠ2"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Άλγ"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΑΝΕΣΤΑΚΟΥ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag><Students name="ΓΒΡ"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag><Students name="ΓΒΡ"></Students>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag><Students name="ΓΒΡ"></Students>
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΑΠΟΣΤΟΛΑΚΗ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Μουσικοκινητική Αγωγή Ε"></Subject><Students name="ΓΒΡ"></Students><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Ε"></Subject><Students name="ΒΥ5"></Students><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Ε"></Subject><Students name="ΒΥ5"></Students><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Ε"></Subject><Students name="ΒΥ5"></Students><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Ε"></Subject><Students name="ΒΥ5"></Students><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Ε"></Subject><Students name="ΒΥ4"></Students><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Ε"></Subject><Students name="ΒΥ4"></Students><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Ε"></Subject><Students name="ΒΥ4"></Students><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Ε"></Subject><Students name="ΒΥ4"></Students><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="Δημ Απ  Προσχ Ηλικία ΙΙ Ε"></Subject><Students name="ΓΒΡ"></Students><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Δημ Απ  Προσχ Ηλικία ΙΙ Ε"></Subject><Students name="ΓΒΡ"></Students><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Δημ Απ  Προσχ Ηλικία ΙΙ Ε"></Subject><Students name="ΓΒΡ"></Students><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Δημ Απ  Προσχ Ηλικία ΙΙ Ε"></Subject><Students name="ΓΒΡ"></Students><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Μουσικοκινητική Αγωγή Ε"></Subject><Students name="ΓΒΡ"></Students><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΑΠΟΣΤΟΛΑΤΟΥ">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Subject name="Αρχές Οικονομίας"></Subject><Students name="Α3"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Πολ Παιδεία"></Subject><Students name="Α3"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Πολ Παιδεία"></Subject><Students name="Α1"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Αρχές Οικονομίας"></Subject><Students name="Α3"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Αρχές Οικονομίας"></Subject><Students name="Α4"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Πολ Παιδεία"></Subject><Students name="Α3"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Πολ Παιδεία"></Subject><Students name="Α1"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Πολ Παιδεία"></Subject><Students name="Α2"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Αρχές Οικονομίας"></Subject><Students name="Α2"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Αρχές Οικονομίας"></Subject><Students name="Α1"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Subject name="Αρχές Οικονομίας"></Subject><Students name="Α1"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Αρχές Οικονομίας"></Subject><Students name="Α4"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Αρχές Οικονομίας"></Subject><Students name="Α2"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Πολ Παιδεία"></Subject><Students name="Α2"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΑΡΧΟΝΤΗ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Students name="ΓΙ"></Students><Students name="ΓΝ"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="ΦΑΡΜ ΤΕΧ Ε"></Subject><Students name="ΒΥ3"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="ΦΑΡΜ ΤΕΧ Ε"></Subject><Students name="ΒΥ3"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="ΦΑΡΜ ΤΕΧ Ε"></Subject><Students name="ΒΥ3"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag><Students name="ΓΑΙ"></Students><Students name="ΓΦΜ"></Students>
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag><Students name="ΓΑΙ"></Students><Students name="ΓΦΜ"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Φαρμακευτική Τεχ ΙΙ Ε"></Subject><Students name="ΓΦΜ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Φαρμακευτική Τεχ ΙΙ Ε"></Subject><Students name="ΓΦΜ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Υγιεινή"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Students name="ΓΙ"></Students><Students name="ΓΝ"></Students>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Students name="ΓΙ"></Students><Students name="ΓΝ"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Συνταγ-Νομοθ-Βιβλία Φαρμ"></Subject><Students name="ΓΦΜ"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     <Subject name="ΦΑΡΜ ΤΕΧ Θ"></Subject><Students name="ΒΥ3"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag><Students name="ΓΑΙ"></Students><Students name="ΓΦΜ"></Students>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Φαρμακευτική Τεχ ΙΙ Θ"></Subject><Students name="ΓΦΜ"></Students>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Υγιεινή"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Students name="ΓΙ"></Students><Students name="ΓΝ"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="ΦΑΡΜ ΤΕΧ Ε"></Subject><Students name="ΒΥ3"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Students name="ΓΙ"></Students><Students name="ΓΝ"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Συνταγ-Νομοθ-Βιβλία Φαρμ"></Subject><Students name="ΓΦΜ"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΑΣΗΜΟΠΟΥΛΟΥ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΑΣΠΡΟΥΛΗ">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Subject name="ΜΙΚΡΟΒΙΟΛΟΓΙΑ Ε"></Subject><Students name="ΒΥ2"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="ΜΙΚΡΟΒΙΟΛΟΓΙΑ Ε"></Subject><Students name="ΒΥ2"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="Μικροβιολογία ΙΙ Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Students name="ΓΙ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Μικροβιολογία ΙΙ Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Students name="ΓΙ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Μικροβιολογία ΙΙ Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Students name="ΓΙ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="Αιματολογία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Students name="ΓΙ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Αιματολογία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Students name="ΓΙ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Αιματολογία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Students name="ΓΙ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Κλινική Βιοχημεία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Students name="ΓΙ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Κλινική Βιοχημεία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Students name="ΓΙ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Κλινική Βιοχημεία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Students name="ΓΙ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Κλινική Βιοχημεία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Students name="ΓΙ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="ΜΙΚΡΟΒΙΟΛΟΓΙΑ Ε"></Subject><Students name="ΒΥ2"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="ΜΙΚΡΟΒΙΟΛΟΓΙΑ Ε"></Subject><Students name="ΒΥ2"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΒΕΛΙΣΣΑΡΙΟΥ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Βασικά Θέματα Πλ Θ"></Subject><Students name="ΒΠ2"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α1"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α1"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Πληρ. Συστ."></Subject><Students name="ΓΕΦ"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Βασικά Θέματα Πλ Θ"></Subject><Students name="ΒΠ2"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Υλικό και Δίκτυα Υπ Θ"></Subject><Students name="ΒΠ1"></Students>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α2"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α2"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Πληρ. Συστ."></Subject><Students name="ΓΔ"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Βασικά Θέματα Πλ Θ"></Subject><Students name="ΒΠ1"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α1"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α1"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Υλικό και Δίκτυα Υπ Θ"></Subject><Students name="ΒΠ2"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Πληρ. Συστ."></Subject><Students name="ΓΕΦ"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="Βασικά Θέματα Πλ Θ"></Subject><Students name="ΒΠ1"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Υλικό και Δίκτυα Υπ Θ"></Subject><Students name="ΒΠ2"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Πληρ. Συστ."></Subject><Students name="ΓΔ"></Students>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Subject name="Υλικό και Δίκτυα Υπ Θ"></Subject><Students name="ΒΠ1"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α2"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α2"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΒΟΓΛΗ">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Subject name="Υγεία και Διατροφή"></Subject><Students name="ΒΥ4"></Students>
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Υγεία και Διατροφή"></Subject><Students name="ΒΥ4"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΓΕΝΕΤΖΑΚΗΣ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 6η)"></Activity_Tag><Students name="ΓΕΦ"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 6η)"></Activity_Tag><Students name="ΓΕΦ"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag><Students name="ΓΑΙ"></Students><Students name="ΓΦΜ"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag><Students name="ΓΑΙ"></Students><Students name="ΓΦΜ"></Students>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag><Students name="ΓΒΡ"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag><Students name="ΓΒΡ"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Νέα Ελ"></Subject><Students name="ΒΠ1"></Students><Students name="ΒΠ2"></Students>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΕΦ"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Νέα Ελ"></Subject><Students name="ΒΥ1"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Νέα Ελ"></Subject><Students name="ΒΥ1"></Students>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag><Students name="ΓΑΙ"></Students><Students name="ΓΦΜ"></Students>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Νέα Ελ"></Subject><Students name="ΒΠ1"></Students><Students name="ΒΠ2"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Νέα Ελ"></Subject><Students name="ΒΠ1"></Students><Students name="ΒΠ2"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag><Students name="ΓΒΡ"></Students>
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Νέα Ελ"></Subject><Students name="ΒΥ1"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΓΚΟΒΟΣΤΗΣ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="ΦΑΡΜ ΤΕΧ Ε"></Subject><Students name="ΒΥ3"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="ΦΑΡΜ ΤΕΧ Ε"></Subject><Students name="ΒΥ3"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="ΦΑΡΜ ΤΕΧ Ε"></Subject><Students name="ΒΥ3"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Ανοσολογία Θ"></Subject><Students name="ΓΙ"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag><Students name="ΓΒΡ"></Students>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag><Students name="ΓΒΡ"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag><Students name="ΓΒΡ"></Students>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="ΦΑΡΜ ΤΕΧ Ε"></Subject><Students name="ΒΥ3"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΓΚΟΥΜΠΑΡΑ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Αγγλικά"></Subject><Students name="ΒΠ1"></Students><Students name="ΒΠ2"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Αγγλικά"></Subject><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag><Students name="ΓΑΙ"></Students><Students name="ΓΦΜ"></Students>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Αγγλικά"></Subject><Students name="ΓΔ"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Αγγλικά"></Subject><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag><Students name="ΓΒΡ"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Αγγλικά Τομέα"></Subject><Students name="ΒΠ1"></Students>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Αγγλικά"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Αγγλικά"></Subject><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Αγγλικά"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Αγγλικά"></Subject><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Students name="ΓΙ"></Students><Students name="ΓΝ"></Students>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="Αγγλικά"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Αγγλικά"></Subject><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Αγγλικά"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Αγγλικά"></Subject><Students name="ΓΕΦ"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Αγγλικά Τομέα"></Subject><Students name="ΒΠ2"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Αγγλικά"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΔΙΑΜΑΝΤΗ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Νέα Ελ"></Subject><Students name="Α1"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Νέα Ελ"></Subject><Students name="Α1"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Students name="ΓΙ"></Students><Students name="ΓΝ"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Students name="ΓΙ"></Students><Students name="ΓΝ"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="Νέα Ελ"></Subject><Students name="Α1"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Νέα Ελ"></Subject><Students name="Α1"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Ιστορία"></Subject><Students name="Α1"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Subject name="Νέα Ελ"></Subject><Students name="Α2"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Νέα Ελ"></Subject><Students name="Α2"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Νέα Ελ"></Subject><Students name="Α3"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Νέα Ελ"></Subject><Students name="Α3"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="Νέα Ελ"></Subject><Students name="Α2"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Νέα Ελ"></Subject><Students name="Α2"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Νέα Ελ"></Subject><Students name="Α3"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Νέα Ελ"></Subject><Students name="Α3"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Students name="ΓΙ"></Students><Students name="ΓΝ"></Students><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΔΙΚΗ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="ΝΟΣΗΛΕΥΤΙΚΗ Ε"></Subject><Students name="ΒΥ1"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="ΝΟΣΗΛΕΥΤΙΚΗ Ε"></Subject><Students name="ΒΥ1"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Στοιχεία Παθολογίας"></Subject><Students name="ΓΝ"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="Υγιεινή"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students>
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Υγιεινή"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag><Students name="ΓΑΙ"></Students><Students name="ΓΦΜ"></Students>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Subject name="Κοσμητολογία Θ"></Subject><Students name="ΓΦΜ"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Κοσμητολογία Ε"></Subject><Students name="ΓΦΜ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Κοσμητολογία Ε"></Subject><Students name="ΓΦΜ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Υγιεινή"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Υγιεινή"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag><Students name="ΓΒΡ"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="ΝΟΣΗΛΕΥΤΙΚΗ Θ"></Subject><Students name="ΒΥ1"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="Υγιεινή"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Υγιεινή"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag><Students name="ΓΑΙ"></Students><Students name="ΓΦΜ"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Υγιεινή"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="ΝΟΣΗΛΕΥΤΙΚΗ Ε"></Subject><Students name="ΒΥ1"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="ΝΟΣΗΛΕΥΤΙΚΗ Ε"></Subject><Students name="ΒΥ1"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Υγιεινή"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag><Students name="ΓΒΡ"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Στοιχεία Παθολογίας"></Subject><Students name="ΓΝ"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΕΥΔΑΙΜΩΝ">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Subject name="Αγωγή Υγείας"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Διαπροσωπικές Σχέσεις"></Subject><Students name="ΒΥ4"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Εργασιακό Περιβάλλον Τομέα"></Subject><Students name="ΒΥ5"></Students><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="Αγωγή Υγείας"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Υγεία και Διατροφή"></Subject><Students name="ΒΥ1"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Υγεία και Διατροφή"></Subject><Students name="ΒΥ2"></Students>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Αγωγή Υγείας"></Subject><Students name="Α1"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Αγωγή Υγείας"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Αγωγή Υγείας"></Subject><Students name="Α2"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Αγωγή Υγείας"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Υγεία και Διατροφή"></Subject><Students name="ΒΥ3"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Φαρμακολογία-Τοξικολογία"></Subject><Students name="ΓΦΜ"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Φαρμακολογία-Τοξικολογία"></Subject><Students name="ΓΦΜ"></Students>
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="Υγεία και Διατροφή"></Subject><Students name="ΒΥ3"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Υγεία και Διατροφή"></Subject><Students name="ΒΥ2"></Students>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Αγωγή Υγείας"></Subject><Students name="Α1"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Υγεία και Διατροφή"></Subject><Students name="ΒΥ1"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Φαρμακολογία-Τοξικολογία"></Subject><Students name="ΓΦΜ"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Φαρμακολογία-Τοξικολογία"></Subject><Students name="ΓΦΜ"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Φαρμακολογία-Τοξικολογία"></Subject><Students name="ΓΦΜ"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Φαρμακολογία-Τοξικολογία"></Subject><Students name="ΓΦΜ"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Διαπροσωπικές Σχέσεις"></Subject><Students name="ΒΥ4"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Αγωγή Υγείας"></Subject><Students name="Α2"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΖΑΛΟΚΩΣΤΑΣ">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Subject name="Φυσ. Αγ"></Subject><Students name="ΓΒΡ"></Students><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Φυσ. Αγ"></Subject><Students name="Α3"></Students><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Φυσ. Αγ"></Subject><Students name="Α4"></Students><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Φυσ. Αγ"></Subject><Students name="Α1"></Students><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Φυσ. Αγ"></Subject><Students name="Α2"></Students><Room name="Γυμν"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="Φυσ. Αγ"></Subject><Students name="ΓΔ"></Students><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Φυσ. Αγ"></Subject><Students name="ΒΥ4"></Students><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Φυσ. Αγ"></Subject><Students name="Α2"></Students><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Subject name="Φυσ. Αγ"></Subject><Students name="Α3"></Students><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Φυσ. Αγ"></Subject><Students name="ΓΕΦ"></Students><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Φυσ. Αγ"></Subject><Students name="ΓΙ"></Students><Students name="ΓΝ"></Students><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Φυσ. Αγ"></Subject><Students name="ΓΑΙ"></Students><Students name="ΓΦΜ"></Students><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Φυσ. Αγ"></Subject><Students name="ΓΦ1"></Students><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Φυσ. Αγ"></Subject><Students name="Α1"></Students><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Φυσ. Αγ"></Subject><Students name="ΓΦ2"></Students><Room name="Γυμν"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Subject name="Φυσ. Αγ"></Subject><Students name="Α4"></Students><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Φυσ. Αγ"></Subject><Students name="ΒΥ3"></Students><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Φυσ. Αγ"></Subject><Students name="ΒΥ5"></Students><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΖΙΩΤΗ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="ΣΥΓΧΡΟΝΗ ΑΙΣΘΗΤΙΚΗ Ε"></Subject><Students name="ΒΥ4"></Students><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="ΣΥΓΧΡΟΝΗ ΑΙΣΘΗΤΙΚΗ Ε"></Subject><Students name="ΒΥ4"></Students><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="SPA και Λουτροθερ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="SPA και Λουτροθερ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Subject name="Σύγχρονη Αισθητική ΙΙ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Σύγχρονη Αισθητική ΙΙ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Σύγχρονη Αισθητική ΙΙ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Αισθητική Άκρων - Ονυχοπλ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Αισθητική Άκρων - Ονυχοπλ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Αισθητική Άκρων - Ονυχοπλ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="ΣΥΓΧΡΟΝΗ ΑΙΣΘΗΤΙΚΗ Ε"></Subject><Students name="ΒΥ4"></Students><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="ΣΥΓΧΡΟΝΗ ΑΙΣΘΗΤΙΚΗ Ε"></Subject><Students name="ΒΥ4"></Students><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Μακιγιάζ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Μακιγιάζ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Μακιγιάζ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Σύγχρονη Αισθητική ΙΙ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Σύγχρονη Αισθητική ΙΙ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Σύγχρονη Αισθητική ΙΙ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΚΑΒΟΥΡΑ">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Subject name="Φυσική"></Subject><Students name="Α1"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="ΣΕΠ"></Subject><Students name="Α2"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Φυσική"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="Φυσική"></Subject><Students name="ΒΥ2"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="ΣΕΠ"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Φυσική"></Subject><Students name="ΒΥ1"></Students>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     <Subject name="ΣΕΠ"></Subject><Students name="Α1"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Φυσική"></Subject><Students name="Α2"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="ΣΕΠ"></Subject><Students name="Α2"></Students>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="Φυσική"></Subject><Students name="Α1"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Φυσική"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Φυσική"></Subject><Students name="Α2"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="ΣΕΠ"></Subject><Students name="Α1"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Φυσική"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="ΣΕΠ"></Subject><Students name="Α4"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Subject name="ΣΕΠ"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Φυσική"></Subject><Students name="ΒΥ4"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="ΣΕΠ"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Φυσική"></Subject><Students name="ΒΥ3"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Φυσική"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Φυσική"></Subject><Students name="ΒΠ1"></Students><Students name="ΒΠ2"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΚΑΜΠΟΥΚΟΥ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Διαπροσωπικές Σχέσεις"></Subject><Students name="ΒΥ2"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Πολ Παιδεία"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Διαπροσωπικές Σχέσεις"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Διαπροσωπικές Σχέσεις"></Subject><Students name="ΒΥ1"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Διαπροσωπικές Σχέσεις"></Subject><Students name="ΒΥ2"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Νέα Ελ"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Νέα Ελ"></Subject><Students name="Α4"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Subject name="Πολ Παιδεία"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Ιστορία"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Νέα Ελ"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Νέα Ελ"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Διαπροσωπικές Σχέσεις"></Subject><Students name="ΒΥ3"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Διαπροσωπικές Σχέσεις"></Subject><Students name="ΒΥ3"></Students>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Διαπροσωπικές Σχέσεις"></Subject><Students name="ΒΥ1"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Διαπροσωπικές Σχέσεις"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Ζώνη"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Ζώνη"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Ζώνη"></Subject><Students name="Α4"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΚΑΡΑΛΗΣ ">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Subject name="Φυσικά Μέσα και Εφρμ Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Φυσικά Μέσα και Εφρμ Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Φυσικά Μέσα και Εφρμ Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Πρακτική Φυσ/θερ Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Πρακτική Φυσ/θερ Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Φυσικά Μέσα και Εφρμ Θ"></Subject><Students name="ΓΦ2"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Students name="ΒΥ3"></Students><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Students name="ΒΥ3"></Students><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Θ"></Subject><Students name="ΒΥ3"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Students name="ΒΥ2"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Students name="ΒΥ2"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Φυσικά Μέσα και Εφρμ Θ"></Subject><Students name="ΓΦ2"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Φυσικοθεραπεία Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Φυσικοθεραπεία Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Φυσικοθεραπεία Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Students name="ΒΥ2"></Students><Room name="Φυ Πε"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Students name="ΒΥ2"></Students><Room name="Φυ Πε"></Room>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Students name="ΒΥ3"></Students><Room name="Φυ Πε"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Students name="ΒΥ3"></Students><Room name="Φυ Πε"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Students name="ΒΥ1"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Students name="ΒΥ1"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Μάλαξη Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Μάλαξη Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΚΑΡΑΜΑΝΗΣ">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Subject name="Τεχνική Υποστ Υπ Συστ και Δικτ Ε"></Subject><Students name="ΓΔ"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Τεχνική Υποστ Υπ Συστ και Δικτ Ε"></Subject><Students name="ΓΔ"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Εισ Η/Υ"></Subject><Students name="ΒΥ4"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Λειτουργικά Συστήματα Θ"></Subject><Students name="ΒΠ1"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Τεχνικά Πωλ &amp; Προδ Θ"></Subject><Students name="ΒΠ1"></Students>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α4"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α4"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="ΣΑΔΕ Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="ΣΑΔΕ Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-25"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Τεχνικά Πωλ &amp; Προδ Θ"></Subject><Students name="ΒΠ2"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Εισ Η/Υ"></Subject><Students name="ΒΠ1"></Students><Students name="ΒΠ2"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Εισ Η/Υ"></Subject><Students name="ΒΥ5"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Λειτουργικά Συστήματα Θ"></Subject><Students name="ΒΠ2"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α3"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α3"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α4"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α4"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Τεχνική Υποστ Υπ Συστ και Δικτ Ε"></Subject><Students name="ΓΔ"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="ΣΑΔΕ Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α3"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α3"></Students><Room name="IT-27"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΚΑΡΥΓΙΑΝΝΗΣ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Μάλαξη Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Μάλαξη Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Students name="ΒΥ3"></Students><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Students name="ΒΥ3"></Students><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Κινησιολογία Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Κινησιολογία Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Κινησιολογία Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Subject name="Κινησιολογία Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Κινησιολογία Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Κινησιολογία Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Students name="ΒΥ3"></Students><Room name="Φυ Πε"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Students name="ΒΥ3"></Students><Room name="Φυ Πε"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Θ"></Subject><Students name="ΒΥ2"></Students>
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Μάλαξη Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Μάλαξη Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Φυσικά Μέσα και Εφρμ Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Φυσικά Μέσα και Εφρμ Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Φυσικά Μέσα και Εφρμ Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΚΑΥΚΟΥΛΑ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Παιδαγ Περιβ Βρεφνηπ Στ Ε"></Subject><Students name="ΓΒΡ"></Students><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Παιδαγ Περιβ Βρεφνηπ Στ Ε"></Subject><Students name="ΓΒΡ"></Students><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Παιδαγ Περιβ Βρεφνηπ Στ Ε"></Subject><Students name="ΓΒΡ"></Students><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Στοιχεία Γεν και Εξελ Ψυχλγ"></Subject><Students name="ΓΒΡ"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Αγωγή Βρέφους και Νηπίου Θ"></Subject><Students name="ΓΒΡ"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Μουσικοκινητική Αγωγή Ε"></Subject><Students name="ΓΒΡ"></Students><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α2"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α2"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Στοιχεία Γεν και Εξελ Ψυχλγ"></Subject><Students name="ΓΒΡ"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Ε"></Subject><Students name="ΒΥ4"></Students><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Ε"></Subject><Students name="ΒΥ4"></Students><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Ε"></Subject><Students name="ΒΥ4"></Students><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Ε"></Subject><Students name="ΒΥ4"></Students><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Αγωγή Βρέφους και Νηπίου Θ"></Subject><Students name="ΓΒΡ"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     <Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Θ"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Θ"></Subject><Students name="ΒΥ4"></Students>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Αγωγή Βρέφους και Νηπίου Ε"></Subject><Students name="ΓΒΡ"></Students><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Αγωγή Βρέφους και Νηπίου Ε"></Subject><Students name="ΓΒΡ"></Students><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Παιδαγ Περιβ Βρεφνηπ Στ Ε"></Subject><Students name="ΓΒΡ"></Students><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α2"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α2"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Εργασιακό Περιβάλλον Τομέα"></Subject><Students name="ΒΥ5"></Students><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Μουσικοκινητική Αγωγή Ε"></Subject><Students name="ΓΒΡ"></Students><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΚΙΤΣΙΟΣ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Λειτουργικά Συστήματα Ε"></Subject><Students name="ΒΠ2"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Λειτουργικά Συστήματα Ε"></Subject><Students name="ΒΠ2"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Εγκ  Διαχ και Συντήρ Υπ Συστ Ε"></Subject><Students name="ΓΔ"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Εγκ  Διαχ και Συντήρ Υπ Συστ Ε"></Subject><Students name="ΓΔ"></Students><Room name="IT-27"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="Λειτουργικά Συστήματα Ε"></Subject><Students name="ΒΠ1"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Λειτουργικά Συστήματα Ε"></Subject><Students name="ΒΠ1"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Subject name="Εγκ  Διαχ και Συντήρ Υπ Συστ Ε"></Subject><Students name="ΓΔ"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Εγκ  Διαχ και Συντήρ Υπ Συστ Ε"></Subject><Students name="ΓΔ"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Ειδ. θέματα στον Προγρ. Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Ειδ. θέματα στον Προγρ. Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Υλικό και Δίκτυα Υπ Ε"></Subject><Students name="ΒΠ1"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Υλικό και Δίκτυα Υπ Ε"></Subject><Students name="ΒΠ1"></Students><Room name="IT-27"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="Ειδ. θέματα στον Προγρ. Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Ειδ. θέματα στον Προγρ. Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Τεχνικά Πωλ &amp; Προδ Ε"></Subject><Students name="ΒΠ2"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Τεχνικά Πωλ &amp; Προδ Ε"></Subject><Students name="ΒΠ2"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Υλικό και Δίκτυα Υπ Ε"></Subject><Students name="ΒΠ2"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Υλικό και Δίκτυα Υπ Ε"></Subject><Students name="ΒΠ2"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΚΟΤΣΙΦΑΚΗΣ">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Subject name="ΜΙΚΡΟΒΙΟΛΟΓΙΑ Ε"></Subject><Students name="ΒΥ2"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="ΜΙΚΡΟΒΙΟΛΟΓΙΑ Ε"></Subject><Students name="ΒΥ2"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="Μικροβιολογία ΙΙ Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Students name="ΓΙ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Μικροβιολογία ΙΙ Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Students name="ΓΙ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Μικροβιολογία ΙΙ Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Students name="ΓΙ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Ανοσολογία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Students name="ΓΙ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Ανοσολογία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Students name="ΓΙ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Subject name="ΜΙΚΡΟΒΙΟΛΟΓΙΑ Θ"></Subject><Students name="ΒΥ2"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Κλινική Βιοχημεία Θ"></Subject><Students name="ΓΙ"></Students>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="Αιματολογία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Students name="ΓΙ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Αιματολογία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Students name="ΓΙ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Αιματολογία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Students name="ΓΙ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Κλινική Βιοχημεία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Students name="ΓΙ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Κλινική Βιοχημεία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Students name="ΓΙ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Κλινική Βιοχημεία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Students name="ΓΙ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Κλινική Βιοχημεία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Students name="ΓΙ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="ΜΙΚΡΟΒΙΟΛΟΓΙΑ Ε"></Subject><Students name="ΒΥ2"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="ΜΙΚΡΟΒΙΟΛΟΓΙΑ Ε"></Subject><Students name="ΒΥ2"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΚΟΥΚΟΥΜΠΕΤΗ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α1"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α1"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Βασικές Αρχές Σύνθεσης"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Βασικές Αρχές Σύνθεσης"></Subject><Students name="Α4"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="Βασικές Αρχές Σύνθεσης"></Subject><Students name="Α2"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Βασικές Αρχές Σύνθεσης"></Subject><Students name="Α2"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α4"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α4"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α1"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α1"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Βασικές Αρχές Σύνθεσης"></Subject><Students name="Α1"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Βασικές Αρχές Σύνθεσης"></Subject><Students name="Α1"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α3"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α3"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α4"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α4"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Βασικές Αρχές Σύνθεσης"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Βασικές Αρχές Σύνθεσης"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α3"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Πλη-Τεχ"></Subject><Students name="Α3"></Students><Room name="IT-27"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΚΟΥΛΟΥΡΗΣ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Φυσ. Αγ"></Subject><Students name="ΒΥ1"></Students><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Φυσ. Αγ"></Subject><Students name="ΒΥ2"></Students><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Φυσ. Αγ"></Subject><Students name="ΒΠ1"></Students><Students name="ΒΠ2"></Students><Room name="Γυμν"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΚΥΡΙΑΖΗ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Αγγλικά"></Subject><Students name="Α2"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Αγγλικά Τομέα"></Subject><Students name="ΒΥ3"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Αγγλικά"></Subject><Students name="ΒΥ2"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Αγγλικά Τομέα"></Subject><Students name="ΒΥ4"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Αγγλικά Τομέα"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Αγγλικά Τομέα"></Subject><Students name="ΒΥ1"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Subject name="Αγγλικά"></Subject><Students name="Α1"></Students>
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Αγγλικά Τομέα"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Αγγλικά"></Subject><Students name="ΒΥ3"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Αγγλικά"></Subject><Students name="Α2"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Αγγλικά Τομέα"></Subject><Students name="ΒΥ4"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Αγγλικά Τομέα"></Subject><Students name="ΒΥ1"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Αγγλικά"></Subject><Students name="ΒΥ4"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Αγγλικά Τομέα"></Subject><Students name="ΒΥ2"></Students>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Αγγλικά"></Subject><Students name="ΒΥ1"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Subject name="Αγγλικά Τομέα"></Subject><Students name="ΒΥ3"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Αγγλικά Τομέα"></Subject><Students name="ΒΥ2"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Αγγλικά"></Subject><Students name="Α1"></Students>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΛΑΓΑΚΗ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Χημεία"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Φυσική"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Χημεία"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Φυσική"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Φυσική"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΛΑΓΟΓΙΑΝΝΗ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Φυσική"></Subject><Students name="ΓΕΦ"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Φυσική"></Subject><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag><Students name="ΓΑΙ"></Students><Students name="ΓΦΜ"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Φυσική"></Subject><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag><Students name="ΓΑΙ"></Students><Students name="ΓΦΜ"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Φυσική"></Subject><Students name="ΓΔ"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Φυσική"></Subject><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag><Students name="ΓΒΡ"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Χημεία"></Subject><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Φυσική"></Subject><Students name="ΓΔ"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Φυσική"></Subject><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag><Students name="ΓΒΡ"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Φυσική"></Subject><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Φυσική"></Subject><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Students name="ΓΙ"></Students><Students name="ΓΝ"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Χημεία"></Subject><Students name="ΓΕΦ"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Φυσική"></Subject><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Χημεία"></Subject><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Φυσική"></Subject><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Subject name="Χημεία"></Subject><Students name="ΓΔ"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Φυσική"></Subject><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Students name="ΓΙ"></Students><Students name="ΓΝ"></Students>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Φυσική"></Subject><Students name="ΓΕΦ"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Φυσική"></Subject><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΛΟΠΑΡΝΟΥ">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Subject name="Εισ Η/Υ"></Subject><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Students name="ΓΙ"></Students><Students name="ΓΝ"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Εισ Η/Υ"></Subject><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag><Students name="ΓΑΙ"></Students><Students name="ΓΦΜ"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Εισ Η/Υ"></Subject><Students name="ΓΔ"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="Βάσεις Δεδ. Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Βάσεις Δεδ. Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Εισ Η/Υ"></Subject><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="ΣΑΔΕ Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="ΣΑΔΕ Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-25"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Εισ Η/Υ"></Subject><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag><Students name="ΓΒΡ"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Εισ Η/Υ"></Subject><Students name="ΒΥ2"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Εισ Η/Υ"></Subject><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="IT-31"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Εισ Η/Υ"></Subject><Students name="ΒΥ3"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Βάσεις Δεδ. Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Βάσεις Δεδ. Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-27"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="ΣΑΔΕ Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Εισ Η/Υ"></Subject><Students name="ΒΥ1"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Εισ Η/Υ"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-31"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΜΙΧΟΠΟΥΛΟΥ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Ανοσολογία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Students name="ΓΙ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Ανοσολογία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Students name="ΓΙ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Μικροβιολογία ΙΙ Θ"></Subject><Students name="ΓΙ"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Αιματολογία Θ"></Subject><Students name="ΓΙ"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Subject name="Στοιχεία Φαρμακογν Θ"></Subject><Students name="ΓΦΜ"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Στοιχεία Φαρμακογν Ε"></Subject><Students name="ΓΦΜ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Στοιχεία Φαρμακογν Ε"></Subject><Students name="ΓΦΜ"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Αιματολογία Θ"></Subject><Students name="ΓΙ"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Στοιχεία Φαρμακογν Θ"></Subject><Students name="ΓΦΜ"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Μικροβιολογία ΙΙ Θ"></Subject><Students name="ΓΙ"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΜΟΡΑΚΗ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Ανατομία-Φυσιολογία Ι"></Subject><Students name="ΒΥ4"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="ΝΟΣΗΛΕΥΤΙΚΗ Ε"></Subject><Students name="ΒΥ1"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="ΝΟΣΗΛΕΥΤΙΚΗ Ε"></Subject><Students name="ΒΥ1"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="Νοσηλευτική ΙΙ Ε"></Subject><Students name="ΓΝ"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Νοσηλευτική ΙΙ Ε"></Subject><Students name="ΓΝ"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Νοσηλευτική ΙΙ Ε"></Subject><Students name="ΓΝ"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Νοσηλευτική ΙΙ Ε"></Subject><Students name="ΓΝ"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Subject name="Ανατομία-Φυσιολογία Ι"></Subject><Students name="ΒΥ4"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Στοιχεία Μαιευτικής-Γυναικ"></Subject><Students name="ΓΝ"></Students>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="Στοιχεία Μαιευτικής-Γυναικ"></Subject><Students name="ΓΝ"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Νοσηλευτική ΙΙ Ε"></Subject><Students name="ΓΝ"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Νοσηλευτική ΙΙ Ε"></Subject><Students name="ΓΝ"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Νοσηλευτική ΙΙ Ε"></Subject><Students name="ΓΝ"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Νοσηλευτική ΙΙ Ε"></Subject><Students name="ΓΝ"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Νοσηλευτική ΙΙ Ε"></Subject><Students name="ΓΝ"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Νοσηλευτική ΙΙ Ε"></Subject><Students name="ΓΝ"></Students><Room name="Νοσ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Subject name="Ανατομία-Φυσιολογία Ι"></Subject><Students name="ΒΥ4"></Students>
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="ΝΟΣΗΛΕΥΤΙΚΗ Ε"></Subject><Students name="ΒΥ1"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="ΝΟΣΗΛΕΥΤΙΚΗ Ε"></Subject><Students name="ΒΥ1"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΜΠΑΛΑΤΣΙΟΥ">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Subject name="Βιολ"></Subject><Students name="Α2"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Βιολ"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Χημεία"></Subject><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Students name="ΓΙ"></Students><Students name="ΓΝ"></Students>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="Χημεία"></Subject><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag><Students name="ΓΑΙ"></Students><Students name="ΓΦΜ"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Χημεία"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Βιολ"></Subject><Students name="Α1"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Χημεία"></Subject><Students name="Α1"></Students>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Χημεία"></Subject><Students name="ΒΠ1"></Students><Students name="ΒΠ2"></Students>
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Χημεία"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Χημεία"></Subject><Students name="ΒΥ1"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Φυσική"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Χημεία"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Χημεία"></Subject><Students name="ΒΥ2"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Βιολ"></Subject><Students name="Α3"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Χημεία"></Subject><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag><Students name="ΓΒΡ"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Χημεία"></Subject><Students name="ΒΥ4"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Χημεία"></Subject><Students name="Α2"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Χημεία"></Subject><Students name="ΒΥ3"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΜΠΑΡΜΠΑΡΟΥΣΗ">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Subject name="Άλγ"></Subject><Students name="ΒΥ1"></Students>
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Άλγ"></Subject><Students name="Α2"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Γεωμ"></Subject><Students name="Α2"></Students>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="Άλγ"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Γεωμ"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Άλγ"></Subject><Students name="ΒΥ2"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Άλγ"></Subject><Students name="ΒΥ1"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Γεωμ"></Subject><Students name="ΒΥ4"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Γεωμ"></Subject><Students name="Α1"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Άλγ"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Γεωμ"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Άλγ"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Άλγ"></Subject><Students name="ΒΥ3"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Άλγ"></Subject><Students name="Α2"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Άλγ"></Subject><Students name="Α1"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Άλγ"></Subject><Students name="Α1"></Students>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Άλγ"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Άλγ"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Subject name="Άλγ"></Subject><Students name="Α2"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Άλγ"></Subject><Students name="Α1"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Άλγ"></Subject><Students name="ΒΥ3"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Άλγ"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Άλγ"></Subject><Students name="ΒΥ2"></Students>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΜΩΚΟΥ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="Άλγ"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΔ"></Students>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Άλγ"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag><Students name="ΓΒΡ"></Students>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΔ"></Students>
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="Γεωμ"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Άλγ"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Άλγ"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag><Students name="ΓΒΡ"></Students>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Άλγ"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΝΑΚΟΥ">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Subject name="Προγραμματισμός ΗΥ Θ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΕΦ"></Students>
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Αρχές Προγρ Υπ Θ"></Subject><Students name="ΒΠ1"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Προγραμματισμός ΗΥ Ε"></Subject><Students name="ΓΔ"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Προγραμματισμός ΗΥ Ε"></Subject><Students name="ΓΔ"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="Αρχές Προγρ Υπ Θ"></Subject><Students name="ΒΠ2"></Students>
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Προγραμματισμός ΗΥ Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Προγραμματισμός ΗΥ Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Subject name="Αρχές Προγρ Υπ Ε"></Subject><Students name="ΒΠ2"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Αρχές Προγρ Υπ Ε"></Subject><Students name="ΒΠ2"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Προγραμματισμός ΗΥ Θ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΔ"></Students>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="Αρχές Προγρ Υπ Ε"></Subject><Students name="ΒΠ2"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Αρχές Προγρ Υπ Ε"></Subject><Students name="ΒΠ1"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Προγραμματισμός ΗΥ Θ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΕΦ"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Προγραμματισμός ΗΥ Θ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΔ"></Students>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Subject name="Προγραμματισμός ΗΥ Θ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΕΦ"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Προγραμματισμός ΗΥ Θ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΔ"></Students>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Αρχές Προγρ Υπ Ε"></Subject><Students name="ΒΠ1"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Αρχές Προγρ Υπ Ε"></Subject><Students name="ΒΠ1"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΝΑΝΗ">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Subject name="Πρώτες Βοήθειες"></Subject><Students name="ΒΥ3"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Πρώτες Βοήθειες"></Subject><Students name="ΒΥ3"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Ανατομία-Φυσιολογία Ι"></Subject><Students name="ΒΥ2"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Ανατομία-Φυσιολογία Ι"></Subject><Students name="ΒΥ1"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Ανατομία-Φυσιολογία Ι"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Ανατομία-Φυσιολογία Ι"></Subject><Students name="ΒΥ3"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Ανατομία-Φυσιολογία Ι"></Subject><Students name="ΒΥ3"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Ανατομία-Φυσιολογία Ι"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Ανατομία-Φυσιολογία Ι"></Subject><Students name="ΒΥ1"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Ανατομία-Φυσιολογία Ι"></Subject><Students name="ΒΥ2"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Ανατομία-Φυσιολογία Ι"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Πρώτες Βοήθειες"></Subject><Students name="ΒΥ1"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Πρώτες Βοήθειες"></Subject><Students name="ΒΥ1"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="Ανατομία-Φυσιολογία Ι"></Subject><Students name="ΒΥ2"></Students>
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Ανατομία-Φυσιολογία Ι"></Subject><Students name="ΒΥ3"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Ανατομία-Φυσιολογία Ι"></Subject><Students name="ΒΥ1"></Students>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Subject name="Πρώτες Βοήθειες"></Subject><Students name="ΒΥ5"></Students><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Πρώτες Βοήθειες"></Subject><Students name="ΒΥ5"></Students><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Πρώτες Βοήθειες"></Subject><Students name="ΒΥ2"></Students><Room name="Φαρ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Πρώτες Βοήθειες"></Subject><Students name="ΒΥ2"></Students><Room name="Φαρ"></Room>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΝΙΚΟΛΑΙΔΗ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Εργασιακό Περιβάλλον Τομέα"></Subject><Students name="ΒΥ5"></Students><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Υγεία και Διατροφή"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Εργασιακό Περιβάλλον Τομέα"></Subject><Students name="ΒΥ2"></Students><Room name="Φαρ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Εργασιακό Περιβάλλον Τομέα"></Subject><Students name="ΒΥ2"></Students><Room name="Φαρ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Εργασιακό Περιβάλλον Τομέα"></Subject><Students name="ΒΥ4"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Πρώτες Βοήθειες"></Subject><Students name="ΒΥ4"></Students><Room name="Φαρ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Πρώτες Βοήθειες"></Subject><Students name="ΒΥ4"></Students><Room name="Φαρ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Χειρουργική-Τεχν Χειρ Ε"></Subject><Students name="ΓΝ"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Χειρουργική-Τεχν Χειρ Ε"></Subject><Students name="ΓΝ"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Νοσηλευτική ΙΙ Θ"></Subject><Students name="ΓΝ"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Subject name="Εργασιακό Περιβάλλον Τομέα"></Subject><Students name="ΒΥ1"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Εργασιακό Περιβάλλον Τομέα"></Subject><Students name="ΒΥ3"></Students><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Πρώτες Βοήθειες"></Subject><Students name="ΒΥ1"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Πρώτες Βοήθειες"></Subject><Students name="ΒΥ1"></Students><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Υγεία και Διατροφή"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Εργασιακό Περιβάλλον Τομέα"></Subject><Students name="ΒΥ4"></Students><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Εργασιακό Περιβάλλον Τομέα"></Subject><Students name="ΒΥ5"></Students><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Νοσηλευτική ΙΙ Θ"></Subject><Students name="ΓΝ"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Εργασιακό Περιβάλλον Τομέα"></Subject><Students name="ΒΥ3"></Students><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Εργασιακό Περιβάλλον Τομέα"></Subject><Students name="ΒΥ1"></Students><Room name="Φαρ"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΝΙΚΟΛΟΠΟΥΛΟΥ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Νέα Ελ"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Νέα Ελ"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Νέα Ελ"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΠΑΝΑΓΙΩΤΟΥ">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Subject name="Φυσικά Μέσα και Εφρμ Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Φυσικά Μέσα και Εφρμ Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Φυσικά Μέσα και Εφρμ Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Μάλαξη Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Μάλαξη Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="Φυσικοθεραπεία Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Φυσικοθεραπεία Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Φυσικοθεραπεία Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Subject name="Πρακτική Φυσ/θερ Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Πρακτική Φυσ/θερ Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΠΑΝΤΟΥ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Παιδαγ Περιβ Βρεφνηπ Στ Ε"></Subject><Students name="ΓΒΡ"></Students><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Παιδαγ Περιβ Βρεφνηπ Στ Ε"></Subject><Students name="ΓΒΡ"></Students><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Παιδαγ Περιβ Βρεφνηπ Στ Ε"></Subject><Students name="ΓΒΡ"></Students><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Ε"></Subject><Students name="ΒΥ5"></Students><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Ε"></Subject><Students name="ΒΥ5"></Students><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Ε"></Subject><Students name="ΒΥ5"></Students><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Ε"></Subject><Students name="ΒΥ5"></Students><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Subject name="Σύγχρονη Αισθητική ΙΙ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Σύγχρονη Αισθητική ΙΙ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Σύγχρονη Αισθητική ΙΙ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="Δημ Απ  Προσχ Ηλικία ΙΙ Ε"></Subject><Students name="ΓΒΡ"></Students><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Δημ Απ  Προσχ Ηλικία ΙΙ Ε"></Subject><Students name="ΓΒΡ"></Students><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Δημ Απ  Προσχ Ηλικία ΙΙ Ε"></Subject><Students name="ΓΒΡ"></Students><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Δημ Απ  Προσχ Ηλικία ΙΙ Ε"></Subject><Students name="ΓΒΡ"></Students><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Παιδαγ Περιβ Βρεφνηπ Στ Ε"></Subject><Students name="ΓΒΡ"></Students><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Σύγχρονη Αισθητική ΙΙ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Σύγχρονη Αισθητική ΙΙ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Σύγχρονη Αισθητική ΙΙ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΔΗΜ">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Subject name="ΣΥΓΧΡΟΝΗ ΑΙΣΘΗΤΙΚΗ Ε"></Subject><Students name="ΒΥ5"></Students><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="ΣΥΓΧΡΟΝΗ ΑΙΣΘΗΤΙΚΗ Ε"></Subject><Students name="ΒΥ5"></Students><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="ΣΥΓΧΡΟΝΗ ΑΙΣΘΗΤΙΚΗ Ε"></Subject><Students name="ΒΥ4"></Students><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="ΣΥΓΧΡΟΝΗ ΑΙΣΘΗΤΙΚΗ Ε"></Subject><Students name="ΒΥ4"></Students><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="ΣΥΓΧΡΟΝΗ ΑΙΣΘΗΤΙΚΗ Θ"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="ΣΥΓΧΡΟΝΗ ΑΙΣΘΗΤΙΚΗ Θ"></Subject><Students name="ΒΥ4"></Students>
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Αισθητική Άκρων - Ονυχοπλ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Αισθητική Άκρων - Ονυχοπλ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Αισθητική Άκρων - Ονυχοπλ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="ΣΥΓΧΡΟΝΗ ΑΙΣΘΗΤΙΚΗ Ε"></Subject><Students name="ΒΥ4"></Students><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="ΣΥΓΧΡΟΝΗ ΑΙΣΘΗΤΙΚΗ Ε"></Subject><Students name="ΒΥ4"></Students><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="ΣΥΓΧΡΟΝΗ ΑΙΣΘΗΤΙΚΗ Ε"></Subject><Students name="ΒΥ5"></Students><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="ΣΥΓΧΡΟΝΗ ΑΙΣΘΗΤΙΚΗ Ε"></Subject><Students name="ΒΥ5"></Students><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Σύγχρονη Αισθητική ΙΙ Θ"></Subject><Students name="ΓΑΙ"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="SPA και Λουτροθερ Θ"></Subject><Students name="ΓΑΙ"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Κοσμητολογία-Τεχν Υλικών"></Subject><Students name="ΓΑΙ"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Subject name="Κοσμητολογία-Τεχν Υλικών"></Subject><Students name="ΓΑΙ"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Μακιγιάζ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Μακιγιάζ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Μακιγιάζ Ε"></Subject><Students name="ΓΑΙ"></Students><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΟΛ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Ιστορία"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Ιστορία"></Subject><Students name="Α2"></Students>
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΔ"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Νέα Ελ"></Subject><Students name="ΒΥ3"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Νέα Ελ"></Subject><Students name="ΒΥ3"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Νέα Ελ"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Νέα Ελ"></Subject><Students name="ΒΥ3"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Νέα Ελ"></Subject><Students name="ΒΥ2"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Νέα Ελ"></Subject><Students name="ΒΥ2"></Students>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 6η)"></Activity_Tag><Students name="ΓΔ"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 6η)"></Activity_Tag><Students name="ΓΔ"></Students>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Νέα Ελ"></Subject><Students name="ΒΥ4"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Νέα Ελ"></Subject><Students name="ΒΥ4"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Νέα Ελ"></Subject><Students name="ΒΥ2"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Νέα Ελ"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Νέα Ελ"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Νέα Ελ"></Subject><Students name="ΒΥ4"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΠΑΠΑΚΩΝΣΤΑΝΤΙΝΟΥ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Subject name="Λογοτεχνία Προσχ Ηλ"></Subject><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag><Students name="ΓΒΡ"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Λογοτεχνία Προσχ Ηλ"></Subject><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag><Students name="ΓΒΡ"></Students>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΠΕΡΤΕΣΗΣ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Πρακτική Φυσ/θερ Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Πρακτική Φυσ/θερ Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Κινησιολογία Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Κινησιολογία Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Κινησιολογία Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Subject name="Κινησιολογία Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Κινησιολογία Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Κινησιολογία Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Φυσικοθεραπεία Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Φυσικοθεραπεία Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Φυσικοθεραπεία Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students><Room name="Φυσ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Students name="ΒΥ1"></Students><Room name="Φυ Πε"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Students name="ΒΥ1"></Students><Room name="Φυ Πε"></Room>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Subject name="Πρακτική Φυσ/θερ Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Πρακτική Φυσ/θερ Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Φυσικά Μέσα και Εφρμ Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Φυσικά Μέσα και Εφρμ Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Φυσικά Μέσα και Εφρμ Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΠΕΤΡΟΠΟΥΛΟΥ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Δίκτυα ΗΥ Θ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΕΦ"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Δίκτυα ΗΥ Θ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΕΦ"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Σχεδιασμός Ιστοτ E"></Subject><Students name="ΒΠ2"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Σχεδιασμός Ιστοτ E"></Subject><Students name="ΒΠ2"></Students><Room name="IT-31"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Σχεδιασμός Ιστοτ E"></Subject><Students name="ΒΠ2"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Σχεδιασμός Ιστοτ E"></Subject><Students name="ΒΠ2"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Δίκτυα ΗΥ Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Δίκτυα ΗΥ Θ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΔ"></Students>
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Δίκτυα ΗΥ Θ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΔ"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Δίκτυα ΗΥ Θ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΕΦ"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Δίκτυα ΗΥ Ε"></Subject><Students name="ΓΔ"></Students><Room name="IT-25"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Σχεδιασμός Ιστοτ E"></Subject><Students name="ΒΠ1"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Σχεδιασμός Ιστοτ E"></Subject><Students name="ΒΠ1"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Δίκτυα ΗΥ Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Σχεδιασμός Ιστοτ E"></Subject><Students name="ΒΠ1"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Σχεδιασμός Ιστοτ E"></Subject><Students name="ΒΠ1"></Students><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Δίκτυα ΗΥ Θ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΔ"></Students>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Δίκτυα ΗΥ Ε"></Subject><Students name="ΓΔ"></Students><Room name="IT-25"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΠΟΥΛΟΥ">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Subject name="Γεωμ"></Subject><Students name="ΒΠ1"></Students><Students name="ΒΠ2"></Students>
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Άλγ"></Subject><Students name="Α2"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Γεωμ"></Subject><Students name="Α2"></Students>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΔ"></Students>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Γεωμ"></Subject><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΒΡ"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Γεωμ"></Subject><Students name="ΒΥ4"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Γεωμ"></Subject><Students name="Α1"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag><Students name="ΓΒΡ"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΕΦ"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΔ"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Άλγ"></Subject><Students name="Α2"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="Γεωμ"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Άλγ"></Subject><Students name="Α1"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Άλγ"></Subject><Students name="Α1"></Students>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Subject name="Άλγ"></Subject><Students name="Α2"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Άλγ"></Subject><Students name="Α1"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΕΦ"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Γεωμ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΕΦ"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag><Students name="ΓΒΡ"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Γεωμ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΔ"></Students>
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΣΦΥΡΗ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="Βάσεις Δεδ. Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Βάσεις Δεδ. Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Προγραμματισμός ΗΥ Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Προγραμματισμός ΗΥ Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Δίκτυα ΗΥ Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Δίκτυα ΗΥ Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Βάσεις Δεδ. Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Βάσεις Δεδ. Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-27"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΤΕΛΩΝΙΑΔΟΥ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Ζώνη"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Ζώνη"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Ζώνη"></Subject><Students name="Α3"></Students>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="Θρησκ"></Subject><Students name="ΒΥ1"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Θρησκ"></Subject><Students name="ΒΥ2"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Θρησκ"></Subject><Students name="ΒΥ3"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Θρησκ"></Subject><Students name="Α2"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Θρησκ"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Subject name="Θρησκ"></Subject><Students name="ΒΥ5"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Θρησκ"></Subject><Students name="ΒΥ4"></Students>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Θρησκ"></Subject><Students name="ΒΠ1"></Students><Students name="ΒΠ2"></Students>
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Θρησκ"></Subject><Students name="Α4"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Ζώνη"></Subject><Students name="Α2"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Ζώνη"></Subject><Students name="Α2"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Ζώνη"></Subject><Students name="Α2"></Students>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Θρησκ"></Subject><Students name="Α1"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Ζώνη"></Subject><Students name="Α1"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Ζώνη"></Subject><Students name="Α1"></Students>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Ζώνη"></Subject><Students name="Α1"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΤΡΑΙΦΟΡΟΣ">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Subject name="Φυσικοθεραπεία Θ"></Subject><Students name="ΓΦ2"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Θ"></Subject><Students name="ΒΥ1"></Students>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="Φυσικοθεραπεία Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Φυσικοθεραπεία Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Φυσικοθεραπεία Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Πρακτική Φυσ/θερ Θ"></Subject><Students name="ΓΦ2"></Students>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Πρακτική Φυσ/θερ Θ"></Subject><Students name="ΓΦ1"></Students>
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Subject name="Φυσικοθεραπεία Θ"></Subject><Students name="ΓΦ2"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Students name="ΒΥ2"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Students name="ΒΥ2"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Φυσικά Μέσα και Εφρμ Θ"></Subject><Students name="ΓΦ1"></Students>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Students name="ΒΥ1"></Students><Room name="Φυ Πε"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Students name="ΒΥ1"></Students><Room name="Φυ Πε"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Students name="ΒΥ2"></Students><Room name="Φυ Πε"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Students name="ΒΥ2"></Students><Room name="Φυ Πε"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Φυσικοθεραπεία Θ"></Subject><Students name="ΓΦ1"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Φυσικά Μέσα και Εφρμ Θ"></Subject><Students name="ΓΦ1"></Students>
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Students name="ΒΥ1"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Students name="ΒΥ1"></Students><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Φυσικοθεραπεία Θ"></Subject><Students name="ΓΦ1"></Students>
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΨΑΛΛΙΔΑΣ">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag><Students name="ΓΑΙ"></Students><Students name="ΓΦΜ"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Γεωμ"></Subject><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΦ2"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Students name="ΓΙ"></Students><Students name="ΓΝ"></Students>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Subject name="Άλγ"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag><Students name="ΓΑΙ"></Students><Students name="ΓΦΜ"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Γεωμ"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Subject name="Γεωμ"></Subject><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΙ"></Students><Students name="ΓΝ"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Άλγ"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Γεωμ"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Άλγ"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="Γεωμ"></Subject><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΑΙ"></Students><Students name="ΓΦΜ"></Students>
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag><Students name="ΓΦ2"></Students>
+    </Hour>
+    <Hour name="5η">
+     <Subject name="Άλγ"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Άλγ"></Subject><Students name="Α4"></Students>
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Students name="ΓΙ"></Students><Students name="ΓΝ"></Students>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag><Students name="ΓΦ1"></Students>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Άλγ"></Subject><Students name="Α3"></Students>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Γεωμ"></Subject><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag><Activity_Tag name="(οχι 7η)"></Activity_Tag><Students name="ΓΦ1"></Students>
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ΨΩΜΑΣ">
+   <Day name="Δε">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Βασικά Θέματα Πλ Ε"></Subject><Students name="ΒΠ1"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Βασικά Θέματα Πλ Ε"></Subject><Students name="ΒΠ1"></Students><Room name="IT-25"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     
+    </Hour>
+    <Hour name="2η">
+     
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Subject name="Τεχνικά Πωλ &amp; Προδ Ε"></Subject><Students name="ΒΠ1"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Τεχνικά Πωλ &amp; Προδ Ε"></Subject><Students name="ΒΠ1"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Ειδ. θέματα στον Προγρ. Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Ειδ. θέματα στον Προγρ. Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Subject name="Ειδ. θέματα στον Προγρ. Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Ειδ. θέματα στον Προγρ. Ε"></Subject><Students name="ΓΕΦ"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="3η">
+     
+    </Hour>
+    <Hour name="4η">
+     
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     <Subject name="Ειδ θέματα σε Υλικό και Δίκτυα Ε"></Subject><Students name="ΓΔ"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Subject name="Ειδ θέματα σε Υλικό και Δίκτυα Ε"></Subject><Students name="ΓΔ"></Students><Room name="IT-25"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Subject name="Βασικά Θέματα Πλ Ε"></Subject><Students name="ΒΠ2"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Subject name="Βασικά Θέματα Πλ Ε"></Subject><Students name="ΒΠ2"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Subject name="Ειδ θέματα σε Υλικό και Δίκτυα Ε"></Subject><Students name="ΓΔ"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Subject name="Ειδ θέματα σε Υλικό και Δίκτυα Ε"></Subject><Students name="ΓΔ"></Students><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="5η">
+     
+    </Hour>
+    <Hour name="6η">
+     
+    </Hour>
+    <Hour name="7η">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+</Teachers_Timetable>
