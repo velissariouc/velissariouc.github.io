@@ -1,0 +1,2343 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Students_Timetable>
+  <Subgroup name="Α1 Αυτόματο Υποτμήμα">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΤΟΥ"></Teacher><Subject name="Πολ Παιδεία"></Subject><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΠΟΥΛΟΥ"></Teacher><Teacher name="ΜΠΑΡΜΠΑΡΟΥΣΗ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΚΥΡΙΑΖΗ"></Teacher><Subject name="Αγγλικά"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΒΕΛΙΣΣΑΡΙΟΥ"></Teacher><Teacher name="ΚΟΥΚΟΥΜΠΕΤΗ"></Teacher><Subject name="Πλη-Τεχ"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΒΕΛΙΣΣΑΡΙΟΥ"></Teacher><Teacher name="ΚΟΥΚΟΥΜΠΕΤΗ"></Teacher><Subject name="Πλη-Τεχ"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΜΠΑΛΑΤΣΙΟΥ"></Teacher><Subject name="Βιολ"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΤΟΥ"></Teacher><Subject name="Αρχές Οικονομίας"></Subject><Room name="υποδιευθ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Teacher name="ΠΟΥΛΟΥ"></Teacher><Teacher name="ΜΠΑΡΜΠΑΡΟΥΣΗ"></Teacher><Subject name="Γεωμ"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΖΑΛΟΚΩΣΤΑΣ"></Teacher><Subject name="Φυσ. Αγ"></Subject><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΒΕΛΙΣΣΑΡΙΟΥ"></Teacher><Teacher name="ΚΟΥΚΟΥΜΠΕΤΗ"></Teacher><Subject name="Πλη-Τεχ"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΒΕΛΙΣΣΑΡΙΟΥ"></Teacher><Teacher name="ΚΟΥΚΟΥΜΠΕΤΗ"></Teacher><Subject name="Πλη-Τεχ"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΑΣΗΜΟΠΟΥΛΟΥ"></Teacher><Subject name="Αγωγή Υγείας"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΔΙΑΜΑΝΤΗ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΔΙΑΜΑΝΤΗ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΤΟΥ"></Teacher><Subject name="Πολ Παιδεία"></Subject><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΤΕΛΩΝΙΑΔΟΥ"></Teacher><Subject name="Θρησκ"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΚΑΒΟΥΡΑ"></Teacher><Subject name="ΣΕΠ"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΑΣΗΜΟΠΟΥΛΟΥ"></Teacher><Subject name="Αγωγή Υγείας"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΑΒΟΥΡΑ"></Teacher><Subject name="Φυσική"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΜΠΑΛΑΤΣΙΟΥ"></Teacher><Subject name="Χημεία"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΥΡΙΑΖΗ"></Teacher><Subject name="Αγγλικά"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Teacher name="ΚΟΥΚΟΥΜΠΕΤΗ"></Teacher><Subject name="Βασικές Αρχές Σύνθεσης"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΚΟΥΚΟΥΜΠΕΤΗ"></Teacher><Subject name="Βασικές Αρχές Σύνθεσης"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΠΟΥΛΟΥ"></Teacher><Teacher name="ΜΠΑΡΜΠΑΡΟΥΣΗ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΤΟΥ"></Teacher><Subject name="Αρχές Οικονομίας"></Subject><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΤΕΛΩΝΙΑΔΟΥ"></Teacher><Subject name="Ζώνη"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΤΕΛΩΝΙΑΔΟΥ"></Teacher><Subject name="Ζώνη"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΤΕΛΩΝΙΑΔΟΥ"></Teacher><Subject name="Ζώνη"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Teacher name="ΔΙΑΜΑΝΤΗ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Ιστορία"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΠΟΥΛΟΥ"></Teacher><Teacher name="ΜΠΑΡΜΠΑΡΟΥΣΗ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΖΑΛΟΚΩΣΤΑΣ"></Teacher><Subject name="Φυσ. Αγ"></Subject><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΚΑΒΟΥΡΑ"></Teacher><Subject name="Φυσική"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΑΒΟΥΡΑ"></Teacher><Subject name="ΣΕΠ"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΔΙΑΜΑΝΤΗ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΔΙΑΜΑΝΤΗ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="Α2 Αυτόματο Υποτμήμα">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Teacher name="ΚΟΥΚΟΥΜΠΕΤΗ"></Teacher><Subject name="Βασικές Αρχές Σύνθεσης"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΚΟΥΚΟΥΜΠΕΤΗ"></Teacher><Subject name="Βασικές Αρχές Σύνθεσης"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΤΟΥ"></Teacher><Subject name="Αρχές Οικονομίας"></Subject><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΠΟΥΛΟΥ"></Teacher><Teacher name="ΜΠΑΡΜΠΑΡΟΥΣΗ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΤΕΛΩΝΙΑΔΟΥ"></Teacher><Subject name="Ζώνη"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΤΕΛΩΝΙΑΔΟΥ"></Teacher><Subject name="Ζώνη"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΤΕΛΩΝΙΑΔΟΥ"></Teacher><Subject name="Ζώνη"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Teacher name="ΔΙΑΜΑΝΤΗ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΔΙΑΜΑΝΤΗ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΠΟΥΛΟΥ"></Teacher><Teacher name="ΜΠΑΡΜΠΑΡΟΥΣΗ"></Teacher><Subject name="Γεωμ"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΚΑΒΟΥΡΑ"></Teacher><Subject name="Φυσική"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΑΒΟΥΡΑ"></Teacher><Subject name="ΣΕΠ"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΑΣΗΜΟΠΟΥΛΟΥ"></Teacher><Subject name="Αγωγή Υγείας"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΤΟΥ"></Teacher><Subject name="Πολ Παιδεία"></Subject><Room name="υποδιευθ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Teacher name="ΚΥΡΙΑΖΗ"></Teacher><Subject name="Αγγλικά"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΒΕΛΙΣΣΑΡΙΟΥ"></Teacher><Teacher name="ΚΑΥΚΟΥΛΑ"></Teacher><Subject name="Πλη-Τεχ"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΒΕΛΙΣΣΑΡΙΟΥ"></Teacher><Teacher name="ΚΑΥΚΟΥΛΑ"></Teacher><Subject name="Πλη-Τεχ"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΟΛ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Ιστορία"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΤΟΥ"></Teacher><Subject name="Αρχές Οικονομίας"></Subject><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΖΑΛΟΚΩΣΤΑΣ"></Teacher><Subject name="Φυσ. Αγ"></Subject><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΠΟΥΛΟΥ"></Teacher><Teacher name="ΜΠΑΡΜΠΑΡΟΥΣΗ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Teacher name="ΚΑΒΟΥΡΑ"></Teacher><Subject name="Φυσική"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΠΟΥΛΟΥ"></Teacher><Teacher name="ΜΠΑΡΜΠΑΡΟΥΣΗ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΚΑΒΟΥΡΑ"></Teacher><Subject name="ΣΕΠ"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΖΑΛΟΚΩΣΤΑΣ"></Teacher><Subject name="Φυσ. Αγ"></Subject><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΑΣΗΜΟΠΟΥΛΟΥ"></Teacher><Subject name="Αγωγή Υγείας"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΔΙΑΜΑΝΤΗ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΔΙΑΜΑΝΤΗ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Teacher name="ΜΠΑΛΑΤΣΙΟΥ"></Teacher><Subject name="Χημεία"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΒΕΛΙΣΣΑΡΙΟΥ"></Teacher><Teacher name="ΚΑΥΚΟΥΛΑ"></Teacher><Subject name="Πλη-Τεχ"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΒΕΛΙΣΣΑΡΙΟΥ"></Teacher><Teacher name="ΚΑΥΚΟΥΛΑ"></Teacher><Subject name="Πλη-Τεχ"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΚΥΡΙΑΖΗ"></Teacher><Subject name="Αγγλικά"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΤΕΛΩΝΙΑΔΟΥ"></Teacher><Subject name="Θρησκ"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΜΠΑΛΑΤΣΙΟΥ"></Teacher><Subject name="Βιολ"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΤΟΥ"></Teacher><Subject name="Πολ Παιδεία"></Subject><Room name="υποδιευθ"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="Α3 Αυτόματο Υποτμήμα">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Teacher name="ΚΑΒΟΥΡΑ"></Teacher><Subject name="ΣΕΠ"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΓΚΟΥΜΠΑΡΑ"></Teacher><Subject name="Αγγλικά"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΖΑΛΟΚΩΣΤΑΣ"></Teacher><Subject name="Φυσ. Αγ"></Subject><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΓΚΟΥΜΠΑΡΑ"></Teacher><Subject name="Αγγλικά"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Teacher name="ΜΠΑΡΜΠΑΡΟΥΣΗ"></Teacher><Teacher name="ΜΩΚΟΥ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΤΟΥ"></Teacher><Subject name="Αρχές Οικονομίας"></Subject><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΕΥΔΑΙΜΩΝ"></Teacher><Subject name="Αγωγή Υγείας"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Teacher name="ΚΟΥΚΟΥΜΠΕΤΗ"></Teacher><Subject name="Βασικές Αρχές Σύνθεσης"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΚΟΥΚΟΥΜΠΕΤΗ"></Teacher><Subject name="Βασικές Αρχές Σύνθεσης"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΖΑΛΟΚΩΣΤΑΣ"></Teacher><Subject name="Φυσ. Αγ"></Subject><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΤΟΥ"></Teacher><Subject name="Πολ Παιδεία"></Subject><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΤΕΛΩΝΙΑΔΟΥ"></Teacher><Subject name="Ζώνη"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΤΕΛΩΝΙΑΔΟΥ"></Teacher><Subject name="Ζώνη"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΤΕΛΩΝΙΑΔΟΥ"></Teacher><Subject name="Ζώνη"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Teacher name="ΚΑΒΟΥΡΑ"></Teacher><Subject name="ΣΕΠ"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΟΛ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Ιστορία"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΤΕΛΩΝΙΑΔΟΥ"></Teacher><Subject name="Θρησκ"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Teacher name="ΜΠΑΡΜΠΑΡΟΥΣΗ"></Teacher><Subject name="Γεωμ"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Teacher name="ΜΠΑΡΜΠΑΡΟΥΣΗ"></Teacher><Teacher name="ΜΩΚΟΥ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΔΙΑΜΑΝΤΗ"></Teacher><Teacher name="ΑΝΑΣΤΑΣΙΟΥ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Νέα Ελ"></Subject><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΔΙΑΜΑΝΤΗ"></Teacher><Teacher name="ΑΝΑΣΤΑΣΙΟΥ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Νέα Ελ"></Subject><Room name="υποδιευθ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Teacher name="ΔΙΑΜΑΝΤΗ"></Teacher><Teacher name="ΑΝΑΣΤΑΣΙΟΥ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Νέα Ελ"></Subject><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΔΙΑΜΑΝΤΗ"></Teacher><Teacher name="ΑΝΑΣΤΑΣΙΟΥ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Νέα Ελ"></Subject><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΚΑΡΑΜΑΝΗΣ"></Teacher><Teacher name="ΚΟΥΚΟΥΜΠΕΤΗ"></Teacher><Subject name="Πλη-Τεχ"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΚΑΡΑΜΑΝΗΣ"></Teacher><Teacher name="ΚΟΥΚΟΥΜΠΕΤΗ"></Teacher><Subject name="Πλη-Τεχ"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΑΒΟΥΡΑ"></Teacher><Teacher name="ΛΑΓΑΚΗ"></Teacher><Subject name="Φυσική"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΜΠΑΛΑΤΣΙΟΥ"></Teacher><Teacher name="ΛΑΓΑΚΗ"></Teacher><Subject name="Χημεία"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΤΟΥ"></Teacher><Subject name="Αρχές Οικονομίας"></Subject><Room name="υποδιευθ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΤΟΥ"></Teacher><Subject name="Πολ Παιδεία"></Subject><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΕΥΔΑΙΜΩΝ"></Teacher><Subject name="Αγωγή Υγείας"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Teacher name="ΜΠΑΡΜΠΑΡΟΥΣΗ"></Teacher><Teacher name="ΜΩΚΟΥ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΚΑΡΑΜΑΝΗΣ"></Teacher><Teacher name="ΚΟΥΚΟΥΜΠΕΤΗ"></Teacher><Subject name="Πλη-Τεχ"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΑΡΑΜΑΝΗΣ"></Teacher><Teacher name="ΚΟΥΚΟΥΜΠΕΤΗ"></Teacher><Subject name="Πλη-Τεχ"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΚΑΒΟΥΡΑ"></Teacher><Teacher name="ΛΑΓΑΚΗ"></Teacher><Subject name="Φυσική"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΜΠΑΛΑΤΣΙΟΥ"></Teacher><Subject name="Βιολ"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="Α4 Αυτόματο Υποτμήμα">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Teacher name="ΕΥΔΑΙΜΩΝ"></Teacher><Subject name="Αγωγή Υγείας"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΚΑΒΟΥΡΑ"></Teacher><Subject name="ΣΕΠ"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΚΑΒΟΥΡΑ"></Teacher><Subject name="Φυσική"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΖΑΛΟΚΩΣΤΑΣ"></Teacher><Subject name="Φυσ. Αγ"></Subject><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΓΚΟΥΜΠΑΡΑ"></Teacher><Subject name="Αγγλικά"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΚΑΜΠΟΥΚΟΥ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΑΜΠΟΥΚΟΥ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΤΟΥ"></Teacher><Subject name="Αρχές Οικονομίας"></Subject><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Teacher name="ΜΠΑΡΜΠΑΡΟΥΣΗ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΤΕΛΩΝΙΑΔΟΥ"></Teacher><Subject name="Θρησκ"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΚΑΜΠΟΥΚΟΥ"></Teacher><Subject name="Πολ Παιδεία"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΑΜΠΟΥΚΟΥ"></Teacher><Subject name="Ζώνη"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΚΑΜΠΟΥΚΟΥ"></Teacher><Subject name="Ζώνη"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΑΜΠΟΥΚΟΥ"></Teacher><Subject name="Ζώνη"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Teacher name="ΕΥΔΑΙΜΩΝ"></Teacher><Subject name="Αγωγή Υγείας"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΚΑΒΟΥΡΑ"></Teacher><Subject name="Φυσική"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Teacher name="ΜΠΑΡΜΠΑΡΟΥΣΗ"></Teacher><Subject name="Γεωμ"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΚΟΥΚΟΥΜΠΕΤΗ"></Teacher><Subject name="Βασικές Αρχές Σύνθεσης"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΟΥΚΟΥΜΠΕΤΗ"></Teacher><Subject name="Βασικές Αρχές Σύνθεσης"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΚΑΡΑΜΑΝΗΣ"></Teacher><Teacher name="ΚΟΥΚΟΥΜΠΕΤΗ"></Teacher><Subject name="Πλη-Τεχ"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΑΡΑΜΑΝΗΣ"></Teacher><Teacher name="ΚΟΥΚΟΥΜΠΕΤΗ"></Teacher><Subject name="Πλη-Τεχ"></Subject><Room name="IT-27"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Teacher name="ΓΚΟΥΜΠΑΡΑ"></Teacher><Subject name="Αγγλικά"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΚΑΒΟΥΡΑ"></Teacher><Subject name="ΣΕΠ"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΚΑΜΠΟΥΚΟΥ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΚΑΜΠΟΥΚΟΥ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΑΜΠΟΥΚΟΥ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Ιστορία"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΖΑΛΟΚΩΣΤΑΣ"></Teacher><Subject name="Φυσ. Αγ"></Subject><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΜΠΑΛΑΤΣΙΟΥ"></Teacher><Subject name="Χημεία"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Teacher name="ΜΠΑΡΜΠΑΡΟΥΣΗ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΤΟΥ"></Teacher><Subject name="Αρχές Οικονομίας"></Subject><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΜΠΑΛΑΤΣΙΟΥ"></Teacher><Subject name="Βιολ"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΚΑΜΠΟΥΚΟΥ"></Teacher><Subject name="Πολ Παιδεία"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Teacher name="ΜΠΑΡΜΠΑΡΟΥΣΗ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΚΑΡΑΜΑΝΗΣ"></Teacher><Teacher name="ΚΟΥΚΟΥΜΠΕΤΗ"></Teacher><Subject name="Πλη-Τεχ"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΑΡΑΜΑΝΗΣ"></Teacher><Teacher name="ΚΟΥΚΟΥΜΠΕΤΗ"></Teacher><Subject name="Πλη-Τεχ"></Subject><Room name="IT-27"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="ΒΥ1 Αυτόματο Υποτμήμα">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Teacher name="ΛΟΠΑΡΝΟΥ"></Teacher><Subject name="Εισ Η/Υ"></Subject><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΑΣΗΜΟΠΟΥΛΟΥ"></Teacher><Subject name="Υγεία και Διατροφή"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΜΟΡΑΚΗ"></Teacher><Teacher name="ΔΙΚΗ"></Teacher><Subject name="ΝΟΣΗΛΕΥΤΙΚΗ Ε"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΜΟΡΑΚΗ"></Teacher><Teacher name="ΔΙΚΗ"></Teacher><Subject name="ΝΟΣΗΛΕΥΤΙΚΗ Ε"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΑΜΠΟΥΚΟΥ"></Teacher><Subject name="Διαπροσωπικές Σχέσεις"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΚΥΡΙΑΖΗ"></Teacher><Subject name="Αγγλικά"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΝΑΝΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία Ι"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Teacher name="ΚΥΡΙΑΖΗ"></Teacher><Subject name="Αγγλικά Τομέα"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΜΠΑΛΑΤΣΙΟΥ"></Teacher><Subject name="Χημεία"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΝΙΚΟΛΑΙΔΗ"></Teacher><Teacher name="ΕΥΔΑΙΜΩΝ"></Teacher><Subject name="Εργασιακό Περιβάλλον Τομέα"></Subject><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΚΟΥΛΟΥΡΗΣ"></Teacher><Subject name="Φυσ. Αγ"></Subject><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΑΝΑΣΤΑΣΟΠΟΥΛΟΣ"></Teacher><Subject name="Γεωμ"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΚΑΒΟΥΡΑ"></Teacher><Subject name="Φυσική"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΝΙΚΟΛΑΙΔΗ"></Teacher><Teacher name="ΕΥΔΑΙΜΩΝ"></Teacher><Subject name="Εργασιακό Περιβάλλον Τομέα"></Subject><Room name="Ιατρ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Teacher name="ΜΟΡΑΚΗ"></Teacher><Teacher name="ΔΙΚΗ"></Teacher><Subject name="ΝΟΣΗΛΕΥΤΙΚΗ Ε"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΜΟΡΑΚΗ"></Teacher><Teacher name="ΔΙΚΗ"></Teacher><Subject name="ΝΟΣΗΛΕΥΤΙΚΗ Ε"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΓΕΝΕΤΖΑΚΗΣ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΓΕΝΕΤΖΑΚΗΣ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΝΑΝΗ"></Teacher><Teacher name="ΝΙΚΟΛΑΙΔΗ"></Teacher><Subject name="Πρώτες Βοήθειες"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΝΑΝΗ"></Teacher><Teacher name="ΝΙΚΟΛΑΙΔΗ"></Teacher><Subject name="Πρώτες Βοήθειες"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΝΑΝΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία Ι"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Teacher name="ΤΡΑΙΦΟΡΟΣ"></Teacher><Teacher name="ΠΕΡΤΕΣΗΣ"></Teacher><Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Room name="Φυ Πε"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΤΡΑΙΦΟΡΟΣ"></Teacher><Teacher name="ΠΕΡΤΕΣΗΣ"></Teacher><Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Room name="Φυ Πε"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΚΥΡΙΑΖΗ"></Teacher><Subject name="Αγγλικά Τομέα"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΤΡΑΙΦΟΡΟΣ"></Teacher><Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Θ"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΔΙΚΗ"></Teacher><Subject name="ΝΟΣΗΛΕΥΤΙΚΗ Θ"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΑΝΑΣΤΑΣΟΠΟΥΛΟΣ"></Teacher><Teacher name="ΜΠΑΡΜΠΑΡΟΥΣΗ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΝΑΝΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία Ι"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Teacher name="ΚΑΜΠΟΥΚΟΥ"></Teacher><Subject name="Διαπροσωπικές Σχέσεις"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΤΡΑΙΦΟΡΟΣ"></Teacher><Teacher name="ΚΑΡΑΛΗΣ "></Teacher><Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΤΡΑΙΦΟΡΟΣ"></Teacher><Teacher name="ΚΑΡΑΛΗΣ "></Teacher><Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΓΕΝΕΤΖΑΚΗΣ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΑΣΗΜΟΠΟΥΛΟΥ"></Teacher><Subject name="Υγεία και Διατροφή"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΑΝΑΣΤΑΣΟΠΟΥΛΟΣ"></Teacher><Teacher name="ΜΠΑΡΜΠΑΡΟΥΣΗ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΤΕΛΩΝΙΑΔΟΥ"></Teacher><Subject name="Θρησκ"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="ΒΥ2 Αυτόματο Υποτμήμα">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Teacher name="ΑΣΠΡΟΥΛΗ"></Teacher><Teacher name="ΚΟΤΣΙΦΑΚΗΣ"></Teacher><Subject name="ΜΙΚΡΟΒΙΟΛΟΓΙΑ Ε"></Subject><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΑΣΠΡΟΥΛΗ"></Teacher><Teacher name="ΚΟΤΣΙΦΑΚΗΣ"></Teacher><Subject name="ΜΙΚΡΟΒΙΟΛΟΓΙΑ Ε"></Subject><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΝΙΚΟΛΑΙΔΗ"></Teacher><Teacher name="ΕΥΔΑΙΜΩΝ"></Teacher><Subject name="Εργασιακό Περιβάλλον Τομέα"></Subject><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΜΠΑΛΑΤΣΙΟΥ"></Teacher><Subject name="Χημεία"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΝΑΝΗ"></Teacher><Teacher name="ΕΥΔΑΙΜΩΝ"></Teacher><Subject name="Πρώτες Βοήθειες"></Subject><Room name="Φαρ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΝΑΝΗ"></Teacher><Teacher name="ΕΥΔΑΙΜΩΝ"></Teacher><Subject name="Πρώτες Βοήθειες"></Subject><Room name="Φαρ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΟΛ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Teacher name="ΑΝΑΣΤΑΣΟΠΟΥΛΟΣ"></Teacher><Subject name="Γεωμ"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΝΑΝΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία Ι"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΚΑΜΠΟΥΚΟΥ"></Teacher><Subject name="Διαπροσωπικές Σχέσεις"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΑΣΗΜΟΠΟΥΛΟΥ"></Teacher><Subject name="Υγεία και Διατροφή"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΟΥΛΟΥΡΗΣ"></Teacher><Subject name="Φυσ. Αγ"></Subject><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΝΙΚΟΛΑΙΔΗ"></Teacher><Teacher name="ΕΥΔΑΙΜΩΝ"></Teacher><Subject name="Εργασιακό Περιβάλλον Τομέα"></Subject><Room name="Φαρ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΑΝΑΣΤΑΣΟΠΟΥΛΟΣ"></Teacher><Teacher name="ΜΠΑΡΜΠΑΡΟΥΣΗ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Teacher name="ΚΑΜΠΟΥΚΟΥ"></Teacher><Subject name="Διαπροσωπικές Σχέσεις"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΑΝΑΣΤΑΣΟΠΟΥΛΟΣ"></Teacher><Teacher name="ΜΠΑΡΜΠΑΡΟΥΣΗ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΚΟΤΣΙΦΑΚΗΣ"></Teacher><Subject name="ΜΙΚΡΟΒΙΟΛΟΓΙΑ Θ"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΚΥΡΙΑΖΗ"></Teacher><Subject name="Αγγλικά"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΥΡΙΑΖΗ"></Teacher><Subject name="Αγγλικά Τομέα"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΚΑΒΟΥΡΑ"></Teacher><Subject name="Φυσική"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΑΡΥΓΙΑΝΝΗΣ"></Teacher><Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Θ"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Teacher name="ΚΥΡΙΑΖΗ"></Teacher><Subject name="Αγγλικά Τομέα"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΝΑΝΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία Ι"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΛΟΠΑΡΝΟΥ"></Teacher><Subject name="Εισ Η/Υ"></Subject><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΤΕΛΩΝΙΑΔΟΥ"></Teacher><Subject name="Θρησκ"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΑΡΑΛΗΣ "></Teacher><Teacher name="ΤΡΑΙΦΟΡΟΣ"></Teacher><Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Room name="Φυ Πε"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΚΑΡΑΛΗΣ "></Teacher><Teacher name="ΤΡΑΙΦΟΡΟΣ"></Teacher><Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Room name="Φυ Πε"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΑΣΗΜΟΠΟΥΛΟΥ"></Teacher><Subject name="Υγεία και Διατροφή"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Teacher name="ΑΣΠΡΟΥΛΗ"></Teacher><Teacher name="ΚΟΤΣΙΦΑΚΗΣ"></Teacher><Subject name="ΜΙΚΡΟΒΙΟΛΟΓΙΑ Ε"></Subject><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΑΣΠΡΟΥΛΗ"></Teacher><Teacher name="ΚΟΤΣΙΦΑΚΗΣ"></Teacher><Subject name="ΜΙΚΡΟΒΙΟΛΟΓΙΑ Ε"></Subject><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΝΑΝΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία Ι"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΚΑΡΑΛΗΣ "></Teacher><Teacher name="ΤΡΑΙΦΟΡΟΣ"></Teacher><Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΑΡΑΛΗΣ "></Teacher><Teacher name="ΤΡΑΙΦΟΡΟΣ"></Teacher><Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΟΛ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΟΛ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="ΒΥ3 Αυτόματο Υποτμήμα">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Teacher name="ΑΝΑΣΤΑΣΟΠΟΥΛΟΣ"></Teacher><Teacher name="ΜΠΑΡΜΠΑΡΟΥΣΗ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΑΝΑΣΤΑΣΟΠΟΥΛΟΣ"></Teacher><Subject name="Γεωμ"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΟΛ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΟΛ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Teacher name="ΓΚΟΒΟΣΤΗΣ"></Teacher><Subject name="ΦΑΡΜ ΤΕΧ Ε"></Subject><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Teacher name="ΓΚΟΒΟΣΤΗΣ"></Teacher><Subject name="ΦΑΡΜ ΤΕΧ Ε"></Subject><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Teacher name="ΓΚΟΒΟΣΤΗΣ"></Teacher><Subject name="ΦΑΡΜ ΤΕΧ Ε"></Subject><Room name="Ιατρ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Teacher name="ΝΑΝΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία Ι"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΚΑΡΑΛΗΣ "></Teacher><Teacher name="ΚΑΡΥΓΙΑΝΝΗΣ"></Teacher><Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Room name="Φαρ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΚΑΡΑΛΗΣ "></Teacher><Teacher name="ΚΑΡΥΓΙΑΝΝΗΣ"></Teacher><Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Room name="Φαρ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΝΑΝΗ"></Teacher><Teacher name="ΕΥΔΑΙΜΩΝ"></Teacher><Subject name="Πρώτες Βοήθειες"></Subject><Room name="Φαρ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΝΑΝΗ"></Teacher><Teacher name="ΕΥΔΑΙΜΩΝ"></Teacher><Subject name="Πρώτες Βοήθειες"></Subject><Room name="Φαρ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Teacher name="ΓΚΟΒΟΣΤΗΣ"></Teacher><Subject name="ΦΑΡΜ ΤΕΧ Ε"></Subject><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΑΣΗΜΟΠΟΥΛΟΥ"></Teacher><Subject name="Υγεία και Διατροφή"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Teacher name="ΤΕΛΩΝΙΑΔΟΥ"></Teacher><Subject name="Θρησκ"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΚΑΜΠΟΥΚΟΥ"></Teacher><Subject name="Διαπροσωπικές Σχέσεις"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΝΙΚΟΛΑΙΔΗ"></Teacher><Teacher name="ΕΥΔΑΙΜΩΝ"></Teacher><Subject name="Εργασιακό Περιβάλλον Τομέα"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΝΙΚΟΛΑΙΔΗ"></Teacher><Teacher name="ΕΥΔΑΙΜΩΝ"></Teacher><Subject name="Εργασιακό Περιβάλλον Τομέα"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΖΑΛΟΚΩΣΤΑΣ"></Teacher><Subject name="Φυσ. Αγ"></Subject><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΚΥΡΙΑΖΗ"></Teacher><Subject name="Αγγλικά"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΑΒΟΥΡΑ"></Teacher><Subject name="Φυσική"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Teacher name="ΝΑΝΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία Ι"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΚΥΡΙΑΖΗ"></Teacher><Subject name="Αγγλικά Τομέα"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΚΑΡΑΛΗΣ "></Teacher><Teacher name="ΚΑΡΥΓΙΑΝΝΗΣ"></Teacher><Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Room name="Φυ Πε"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΚΑΡΑΛΗΣ "></Teacher><Teacher name="ΚΑΡΥΓΙΑΝΝΗΣ"></Teacher><Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Ε"></Subject><Room name="Φυ Πε"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΜΠΑΛΑΤΣΙΟΥ"></Teacher><Subject name="Χημεία"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΟΛ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΑΝΑΣΤΑΣΟΠΟΥΛΟΣ"></Teacher><Teacher name="ΜΠΑΡΜΠΑΡΟΥΣΗ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Teacher name="ΚΑΡΑΛΗΣ "></Teacher><Subject name="ΕΙΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ Θ"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΝΑΝΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία Ι"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΚΥΡΙΑΖΗ"></Teacher><Subject name="Αγγλικά Τομέα"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΑΣΗΜΟΠΟΥΛΟΥ"></Teacher><Subject name="Υγεία και Διατροφή"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΑΜΠΟΥΚΟΥ"></Teacher><Subject name="Διαπροσωπικές Σχέσεις"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΛΟΠΑΡΝΟΥ"></Teacher><Subject name="Εισ Η/Υ"></Subject><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Subject name="ΦΑΡΜ ΤΕΧ Θ"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="ΒΥ4 Αυτόματο Υποτμήμα">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΔΗΜ"></Teacher><Teacher name="ΖΙΩΤΗ"></Teacher><Subject name="ΣΥΓΧΡΟΝΗ ΑΙΣΘΗΤΙΚΗ Ε"></Subject><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΔΗΜ"></Teacher><Teacher name="ΖΙΩΤΗ"></Teacher><Subject name="ΣΥΓΧΡΟΝΗ ΑΙΣΘΗΤΙΚΗ Ε"></Subject><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΤΕΛΩΝΙΑΔΟΥ"></Teacher><Subject name="Θρησκ"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΝΙΚΟΛΑΙΔΗ"></Teacher><Teacher name="ΕΥΔΑΙΜΩΝ"></Teacher><Subject name="Εργασιακό Περιβάλλον Τομέα"></Subject><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΟΛ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΟΛ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΜΟΡΑΚΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία Ι"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Teacher name="ΜΠΑΛΑΤΣΙΟΥ"></Teacher><Subject name="Χημεία"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΚΥΡΙΑΖΗ"></Teacher><Subject name="Αγγλικά Τομέα"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΑΝΑΣΤΑΣΟΠΟΥΛΟΣ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΔΗΜ"></Teacher><Subject name="ΣΥΓΧΡΟΝΗ ΑΙΣΘΗΤΙΚΗ Θ"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΜΟΡΑΚΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία Ι"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΔΗΜ"></Teacher><Teacher name="ΖΙΩΤΗ"></Teacher><Subject name="ΣΥΓΧΡΟΝΗ ΑΙΣΘΗΤΙΚΗ Ε"></Subject><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΔΗΜ"></Teacher><Teacher name="ΖΙΩΤΗ"></Teacher><Subject name="ΣΥΓΧΡΟΝΗ ΑΙΣΘΗΤΙΚΗ Ε"></Subject><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΟΛ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΚΥΡΙΑΖΗ"></Teacher><Subject name="Αγγλικά Τομέα"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΑΣΗΜΟΠΟΥΛΟΥ"></Teacher><Subject name="Υγεία και Διατροφή"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΚΗ"></Teacher><Teacher name="ΚΑΥΚΟΥΛΑ"></Teacher><Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Ε"></Subject><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΚΗ"></Teacher><Teacher name="ΚΑΥΚΟΥΛΑ"></Teacher><Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Ε"></Subject><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΚΗ"></Teacher><Teacher name="ΚΑΥΚΟΥΛΑ"></Teacher><Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Ε"></Subject><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΚΗ"></Teacher><Teacher name="ΚΑΥΚΟΥΛΑ"></Teacher><Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Ε"></Subject><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Teacher name="ΠΟΥΛΟΥ"></Teacher><Teacher name="ΜΠΑΡΜΠΑΡΟΥΣΗ"></Teacher><Subject name="Γεωμ"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΚΑΡΑΜΑΝΗΣ"></Teacher><Subject name="Εισ Η/Υ"></Subject><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΚΑΥΚΟΥΛΑ"></Teacher><Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Θ"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΚΑΒΟΥΡΑ"></Teacher><Subject name="Φυσική"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΖΑΛΟΚΩΣΤΑΣ"></Teacher><Subject name="Φυσ. Αγ"></Subject><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΑΣΗΜΟΠΟΥΛΟΥ"></Teacher><Subject name="Υγεία και Διατροφή"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΕΥΔΑΙΜΩΝ"></Teacher><Subject name="Διαπροσωπικές Σχέσεις"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Teacher name="ΕΥΔΑΙΜΩΝ"></Teacher><Subject name="Διαπροσωπικές Σχέσεις"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΜΟΡΑΚΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία Ι"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΝΙΚΟΛΑΙΔΗ"></Teacher><Teacher name="ΕΥΔΑΙΜΩΝ"></Teacher><Subject name="Εργασιακό Περιβάλλον Τομέα"></Subject><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΑΝΑΣΤΑΣΟΠΟΥΛΟΣ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΥΡΙΑΖΗ"></Teacher><Subject name="Αγγλικά"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΝΙΚΟΛΑΙΔΗ"></Teacher><Teacher name="ΕΥΔΑΙΜΩΝ"></Teacher><Subject name="Πρώτες Βοήθειες"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΝΙΚΟΛΑΙΔΗ"></Teacher><Teacher name="ΕΥΔΑΙΜΩΝ"></Teacher><Subject name="Πρώτες Βοήθειες"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="ΒΥ5 Αυτόματο Υποτμήμα">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Teacher name="ΤΕΛΩΝΙΑΔΟΥ"></Teacher><Subject name="Θρησκ"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΝΙΚΟΛΑΙΔΗ"></Teacher><Teacher name="ΕΥΔΑΙΜΩΝ"></Teacher><Subject name="Εργασιακό Περιβάλλον Τομέα"></Subject><Room name="Φαρ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΚΑΡΑΜΑΝΗΣ"></Teacher><Subject name="Εισ Η/Υ"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΔΗΜ"></Teacher><Subject name="ΣΥΓΧΡΟΝΗ ΑΙΣΘΗΤΙΚΗ Ε"></Subject><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΔΗΜ"></Teacher><Subject name="ΣΥΓΧΡΟΝΗ ΑΙΣΘΗΤΙΚΗ Ε"></Subject><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΖΑΛΟΚΩΣΤΑΣ"></Teacher><Subject name="Φυσ. Αγ"></Subject><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΥΡΙΑΖΗ"></Teacher><Subject name="Αγγλικά Τομέα"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΟΛ"></Teacher><Teacher name="ΝΙΚΟΛΟΠΟΥΛΟΥ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΟΛ"></Teacher><Teacher name="ΝΙΚΟΛΟΠΟΥΛΟΥ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΚΥΡΙΑΖΗ"></Teacher><Subject name="Αγγλικά Τομέα"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΚΗ"></Teacher><Teacher name="ΠΑΝΤΟΥ"></Teacher><Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Ε"></Subject><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΚΗ"></Teacher><Teacher name="ΠΑΝΤΟΥ"></Teacher><Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Ε"></Subject><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΚΗ"></Teacher><Teacher name="ΠΑΝΤΟΥ"></Teacher><Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Ε"></Subject><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΚΗ"></Teacher><Teacher name="ΠΑΝΤΟΥ"></Teacher><Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Ε"></Subject><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Teacher name="ΑΝΑΣΤΑΣΟΠΟΥΛΟΣ"></Teacher><Teacher name="ΜΩΚΟΥ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΠΟΥΛΟΥ"></Teacher><Teacher name="ΜΩΚΟΥ"></Teacher><Subject name="Γεωμ"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΚΑΜΠΟΥΚΟΥ"></Teacher><Subject name="Διαπροσωπικές Σχέσεις"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΝΑΝΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία Ι"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΜΠΑΛΑΤΣΙΟΥ"></Teacher><Teacher name="ΛΑΓΑΚΗ"></Teacher><Subject name="Φυσική"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΔΗΜ"></Teacher><Subject name="ΣΥΓΧΡΟΝΗ ΑΙΣΘΗΤΙΚΗ Θ"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΜΠΑΛΑΤΣΙΟΥ"></Teacher><Teacher name="ΛΑΓΑΚΗ"></Teacher><Subject name="Χημεία"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΔΗΜ"></Teacher><Subject name="ΣΥΓΧΡΟΝΗ ΑΙΣΘΗΤΙΚΗ Ε"></Subject><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΔΗΜ"></Teacher><Subject name="ΣΥΓΧΡΟΝΗ ΑΙΣΘΗΤΙΚΗ Ε"></Subject><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΝΑΝΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία Ι"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΑΣΗΜΟΠΟΥΛΟΥ"></Teacher><Subject name="Υγεία και Διατροφή"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΝΑΝΗ"></Teacher><Teacher name="ΕΥΔΑΙΜΩΝ"></Teacher><Subject name="Πρώτες Βοήθειες"></Subject><Room name="Φαρ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΝΑΝΗ"></Teacher><Teacher name="ΕΥΔΑΙΜΩΝ"></Teacher><Subject name="Πρώτες Βοήθειες"></Subject><Room name="Φαρ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΑΜΠΟΥΚΟΥ"></Teacher><Subject name="Διαπροσωπικές Σχέσεις"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Teacher name="ΝΑΝΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία Ι"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΓΚΟΥΜΠΑΡΑ"></Teacher><Subject name="Αγγλικά"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΑΣΗΜΟΠΟΥΛΟΥ"></Teacher><Subject name="Υγεία και Διατροφή"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΝΙΚΟΛΑΙΔΗ"></Teacher><Teacher name="ΚΑΥΚΟΥΛΑ"></Teacher><Subject name="Εργασιακό Περιβάλλον Τομέα"></Subject><Room name="Φαρ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΟΛ"></Teacher><Teacher name="ΝΙΚΟΛΟΠΟΥΛΟΥ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΚΑΥΚΟΥΛΑ"></Teacher><Subject name="ΔΗΜ ΑΠ ΠΡΟΣΧ ΗΛΙΚΙΑ Θ"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΑΝΑΣΤΑΣΟΠΟΥΛΟΣ"></Teacher><Teacher name="ΜΩΚΟΥ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="ΒΠ1 Αυτόματο Υποτμήμα">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Teacher name="ΓΕΝΕΤΖΑΚΗΣ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΓΕΝΕΤΖΑΚΗΣ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΠΟΥΛΟΥ"></Teacher><Subject name="Γεωμ"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΚΙΤΣΙΟΣ"></Teacher><Subject name="Λειτουργικά Συστήματα Ε"></Subject><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΙΤΣΙΟΣ"></Teacher><Subject name="Λειτουργικά Συστήματα Ε"></Subject><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΚΙΤΣΙΟΣ"></Teacher><Subject name="Υλικό και Δίκτυα Υπ Ε"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΙΤΣΙΟΣ"></Teacher><Subject name="Υλικό και Δίκτυα Υπ Ε"></Subject><Room name="IT-27"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Teacher name="ΝΑΚΟΥ"></Teacher><Subject name="Αρχές Προγρ Υπ Ε"></Subject><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΝΑΚΟΥ"></Teacher><Subject name="Αρχές Προγρ Υπ Ε"></Subject><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΜΠΑΛΑΤΣΙΟΥ"></Teacher><Subject name="Χημεία"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΓΕΝΕΤΖΑΚΗΣ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΑΡΑΜΑΝΗΣ"></Teacher><Subject name="Λειτουργικά Συστήματα Θ"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΑΝΑΣΤΑΣΟΠΟΥΛΟΣ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΟΥΛΟΥΡΗΣ"></Teacher><Subject name="Φυσ. Αγ"></Subject><Room name="Γυμν"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Teacher name="ΨΩΜΑΣ"></Teacher><Subject name="Τεχνικά Πωλ &amp; Προδ Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΨΩΜΑΣ"></Teacher><Subject name="Τεχνικά Πωλ &amp; Προδ Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΓΚΟΥΜΠΑΡΑ"></Teacher><Subject name="Αγγλικά"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΒΕΛΙΣΣΑΡΙΟΥ"></Teacher><Subject name="Υλικό και Δίκτυα Υπ Θ"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΑΡΑΜΑΝΗΣ"></Teacher><Subject name="Τεχνικά Πωλ &amp; Προδ Θ"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΠΕΤΡΟΠΟΥΛΟΥ"></Teacher><Subject name="Σχεδιασμός Ιστοτ E"></Subject><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΠΕΤΡΟΠΟΥΛΟΥ"></Teacher><Subject name="Σχεδιασμός Ιστοτ E"></Subject><Room name="IT-31"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Teacher name="ΚΑΡΑΜΑΝΗΣ"></Teacher><Subject name="Εισ Η/Υ"></Subject><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΒΕΛΙΣΣΑΡΙΟΥ"></Teacher><Subject name="Βασικά Θέματα Πλ Θ"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΓΚΟΥΜΠΑΡΑ"></Teacher><Subject name="Αγγλικά Τομέα"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΒΕΛΙΣΣΑΡΙΟΥ"></Teacher><Subject name="Βασικά Θέματα Πλ Θ"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΝΑΚΟΥ"></Teacher><Subject name="Αρχές Προγρ Υπ Θ"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΠΕΤΡΟΠΟΥΛΟΥ"></Teacher><Subject name="Σχεδιασμός Ιστοτ E"></Subject><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΠΕΤΡΟΠΟΥΛΟΥ"></Teacher><Subject name="Σχεδιασμός Ιστοτ E"></Subject><Room name="IT-31"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Teacher name="ΨΩΜΑΣ"></Teacher><Subject name="Βασικά Θέματα Πλ Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΨΩΜΑΣ"></Teacher><Subject name="Βασικά Θέματα Πλ Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΝΑΚΟΥ"></Teacher><Subject name="Αρχές Προγρ Υπ Ε"></Subject><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΒΕΛΙΣΣΑΡΙΟΥ"></Teacher><Subject name="Υλικό και Δίκτυα Υπ Θ"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΑΝΑΣΤΑΣΟΠΟΥΛΟΣ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΤΕΛΩΝΙΑΔΟΥ"></Teacher><Subject name="Θρησκ"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΑΒΟΥΡΑ"></Teacher><Subject name="Φυσική"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="ΒΠ2 Αυτόματο Υποτμήμα">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Teacher name="ΓΕΝΕΤΖΑΚΗΣ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΓΕΝΕΤΖΑΚΗΣ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΠΟΥΛΟΥ"></Teacher><Subject name="Γεωμ"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΚΑΡΑΜΑΝΗΣ"></Teacher><Subject name="Τεχνικά Πωλ &amp; Προδ Θ"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΑΡΑΜΑΝΗΣ"></Teacher><Subject name="Λειτουργικά Συστήματα Θ"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΒΕΛΙΣΣΑΡΙΟΥ"></Teacher><Subject name="Υλικό και Δίκτυα Υπ Θ"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΝΑΚΟΥ"></Teacher><Subject name="Αρχές Προγρ Υπ Ε"></Subject><Room name="IT-31"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Teacher name="ΚΙΤΣΙΟΣ"></Teacher><Subject name="Τεχνικά Πωλ &amp; Προδ Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΚΙΤΣΙΟΣ"></Teacher><Subject name="Τεχνικά Πωλ &amp; Προδ Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΜΠΑΛΑΤΣΙΟΥ"></Teacher><Subject name="Χημεία"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΓΕΝΕΤΖΑΚΗΣ"></Teacher><Teacher name="ΤΣΙΟΝΑ"></Teacher><Subject name="Νέα Ελ"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΒΕΛΙΣΣΑΡΙΟΥ"></Teacher><Subject name="Βασικά Θέματα Πλ Θ"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΑΝΑΣΤΑΣΟΠΟΥΛΟΣ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΟΥΛΟΥΡΗΣ"></Teacher><Subject name="Φυσ. Αγ"></Subject><Room name="Γυμν"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Teacher name="ΝΑΚΟΥ"></Teacher><Subject name="Αρχές Προγρ Υπ Ε"></Subject><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΝΑΚΟΥ"></Teacher><Subject name="Αρχές Προγρ Υπ Ε"></Subject><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΓΚΟΥΜΠΑΡΑ"></Teacher><Subject name="Αγγλικά"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΠΕΤΡΟΠΟΥΛΟΥ"></Teacher><Subject name="Σχεδιασμός Ιστοτ E"></Subject><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΠΕΤΡΟΠΟΥΛΟΥ"></Teacher><Subject name="Σχεδιασμός Ιστοτ E"></Subject><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΒΕΛΙΣΣΑΡΙΟΥ"></Teacher><Subject name="Υλικό και Δίκτυα Υπ Θ"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΝΑΚΟΥ"></Teacher><Subject name="Αρχές Προγρ Υπ Θ"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Teacher name="ΚΑΡΑΜΑΝΗΣ"></Teacher><Subject name="Εισ Η/Υ"></Subject><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΓΚΟΥΜΠΑΡΑ"></Teacher><Subject name="Αγγλικά Τομέα"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΒΕΛΙΣΣΑΡΙΟΥ"></Teacher><Subject name="Βασικά Θέματα Πλ Θ"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΠΕΤΡΟΠΟΥΛΟΥ"></Teacher><Subject name="Σχεδιασμός Ιστοτ E"></Subject><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΠΕΤΡΟΠΟΥΛΟΥ"></Teacher><Subject name="Σχεδιασμός Ιστοτ E"></Subject><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΚΙΤΣΙΟΣ"></Teacher><Subject name="Υλικό και Δίκτυα Υπ Ε"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΙΤΣΙΟΣ"></Teacher><Subject name="Υλικό και Δίκτυα Υπ Ε"></Subject><Room name="IT-27"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Teacher name="ΚΙΤΣΙΟΣ"></Teacher><Subject name="Λειτουργικά Συστήματα Ε"></Subject><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΚΙΤΣΙΟΣ"></Teacher><Subject name="Λειτουργικά Συστήματα Ε"></Subject><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΨΩΜΑΣ"></Teacher><Subject name="Βασικά Θέματα Πλ Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΨΩΜΑΣ"></Teacher><Subject name="Βασικά Θέματα Πλ Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΑΝΑΣΤΑΣΟΠΟΥΛΟΣ"></Teacher><Subject name="Άλγ"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΤΕΛΩΝΙΑΔΟΥ"></Teacher><Subject name="Θρησκ"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΑΒΟΥΡΑ"></Teacher><Subject name="Φυσική"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="ΓΕΦ Αυτόματο Υποτμήμα">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Teacher name="ΠΟΥΛΟΥ"></Teacher><Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΛΟΠΑΡΝΟΥ"></Teacher><Teacher name="ΚΑΡΑΜΑΝΗΣ"></Teacher><Subject name="ΣΑΔΕ Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΓΕΝΕΤΖΑΚΗΣ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 6η)"></Activity_Tag>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΓΕΝΕΤΖΑΚΗΣ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 6η)"></Activity_Tag>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΠΕΤΡΟΠΟΥΛΟΥ"></Teacher><Subject name="Δίκτυα ΗΥ Θ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΝΑΚΟΥ"></Teacher><Subject name="Προγραμματισμός ΗΥ Θ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΒΕΛΙΣΣΑΡΙΟΥ"></Teacher><Subject name="Πληρ. Συστ."></Subject>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Teacher name="ΛΟΠΑΡΝΟΥ"></Teacher><Teacher name="ΣΦΥΡΗ"></Teacher><Subject name="Βάσεις Δεδ. Ε"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΛΟΠΑΡΝΟΥ"></Teacher><Teacher name="ΣΦΥΡΗ"></Teacher><Subject name="Βάσεις Δεδ. Ε"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΝΑΚΟΥ"></Teacher><Teacher name="ΣΦΥΡΗ"></Teacher><Subject name="Προγραμματισμός ΗΥ Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΝΑΚΟΥ"></Teacher><Teacher name="ΣΦΥΡΗ"></Teacher><Subject name="Προγραμματισμός ΗΥ Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΛΑΓΟΓΙΑΝΝΗ"></Teacher><Subject name="Φυσική"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΠΕΤΡΟΠΟΥΛΟΥ"></Teacher><Subject name="Δίκτυα ΗΥ Θ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΠΕΤΡΟΠΟΥΛΟΥ"></Teacher><Teacher name="ΣΦΥΡΗ"></Teacher><Subject name="Δίκτυα ΗΥ Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Teacher name="ΛΟΠΑΡΝΟΥ"></Teacher><Subject name="Εισ Η/Υ"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΓΕΝΕΤΖΑΚΗΣ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΛΟΠΑΡΝΟΥ"></Teacher><Teacher name="ΚΑΡΑΜΑΝΗΣ"></Teacher><Subject name="ΣΑΔΕ Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΛΟΠΑΡΝΟΥ"></Teacher><Teacher name="ΚΑΡΑΜΑΝΗΣ"></Teacher><Subject name="ΣΑΔΕ Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΠΟΥΛΟΥ"></Teacher><Subject name="Γεωμ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΚΙΤΣΙΟΣ"></Teacher><Teacher name="ΨΩΜΑΣ"></Teacher><Subject name="Ειδ. θέματα στον Προγρ. Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΙΤΣΙΟΣ"></Teacher><Teacher name="ΨΩΜΑΣ"></Teacher><Subject name="Ειδ. θέματα στον Προγρ. Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Teacher name="ΛΟΠΑΡΝΟΥ"></Teacher><Teacher name="ΣΦΥΡΗ"></Teacher><Subject name="Βάσεις Δεδ. Ε"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΛΟΠΑΡΝΟΥ"></Teacher><Teacher name="ΣΦΥΡΗ"></Teacher><Subject name="Βάσεις Δεδ. Ε"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΠΕΤΡΟΠΟΥΛΟΥ"></Teacher><Teacher name="ΣΦΥΡΗ"></Teacher><Subject name="Δίκτυα ΗΥ Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΝΑΚΟΥ"></Teacher><Subject name="Προγραμματισμός ΗΥ Θ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΒΕΛΙΣΣΑΡΙΟΥ"></Teacher><Subject name="Πληρ. Συστ."></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΛΑΓΟΓΙΑΝΝΗ"></Teacher><Subject name="Φυσική"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΖΑΛΟΚΩΣΤΑΣ"></Teacher><Subject name="Φυσ. Αγ"></Subject><Room name="Γυμν"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Teacher name="ΝΑΚΟΥ"></Teacher><Subject name="Προγραμματισμός ΗΥ Θ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΠΕΤΡΟΠΟΥΛΟΥ"></Teacher><Subject name="Δίκτυα ΗΥ Θ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΠΟΥΛΟΥ"></Teacher><Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΓΚΟΥΜΠΑΡΑ"></Teacher><Subject name="Αγγλικά"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΙΤΣΙΟΣ"></Teacher><Teacher name="ΨΩΜΑΣ"></Teacher><Subject name="Ειδ. θέματα στον Προγρ. Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΚΙΤΣΙΟΣ"></Teacher><Teacher name="ΨΩΜΑΣ"></Teacher><Subject name="Ειδ. θέματα στον Προγρ. Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΛΑΓΟΓΙΑΝΝΗ"></Teacher><Subject name="Χημεία"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="ΓΔ Αυτόματο Υποτμήμα">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Teacher name="ΚΙΤΣΙΟΣ"></Teacher><Subject name="Εγκ  Διαχ και Συντήρ Υπ Συστ Ε"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΚΙΤΣΙΟΣ"></Teacher><Subject name="Εγκ  Διαχ και Συντήρ Υπ Συστ Ε"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΠΕΤΡΟΠΟΥΛΟΥ"></Teacher><Subject name="Δίκτυα ΗΥ Θ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΠΕΤΡΟΠΟΥΛΟΥ"></Teacher><Subject name="Δίκτυα ΗΥ Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΝΑΚΟΥ"></Teacher><Subject name="Προγραμματισμός ΗΥ Θ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΨΩΜΑΣ"></Teacher><Subject name="Ειδ θέματα σε Υλικό και Δίκτυα Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΨΩΜΑΣ"></Teacher><Subject name="Ειδ θέματα σε Υλικό και Δίκτυα Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Teacher name="ΖΑΛΟΚΩΣΤΑΣ"></Teacher><Subject name="Φυσ. Αγ"></Subject><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΠΟΥΛΟΥ"></Teacher><Teacher name="ΜΩΚΟΥ"></Teacher><Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΟΛ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΛΟΠΑΡΝΟΥ"></Teacher><Subject name="Εισ Η/Υ"></Subject><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΠΕΤΡΟΠΟΥΛΟΥ"></Teacher><Subject name="Δίκτυα ΗΥ Θ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΚΑΡΑΜΑΝΗΣ"></Teacher><Subject name="Τεχνική Υποστ Υπ Συστ και Δικτ Ε"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΑΡΑΜΑΝΗΣ"></Teacher><Subject name="Τεχνική Υποστ Υπ Συστ και Δικτ Ε"></Subject><Room name="IT-27"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Teacher name="ΠΟΥΛΟΥ"></Teacher><Subject name="Γεωμ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΓΚΟΥΜΠΑΡΑ"></Teacher><Subject name="Αγγλικά"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΛΑΓΟΓΙΑΝΝΗ"></Teacher><Subject name="Φυσική"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΚΙΤΣΙΟΣ"></Teacher><Subject name="Εγκ  Διαχ και Συντήρ Υπ Συστ Ε"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΙΤΣΙΟΣ"></Teacher><Subject name="Εγκ  Διαχ και Συντήρ Υπ Συστ Ε"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΝΑΚΟΥ"></Teacher><Subject name="Προγραμματισμός ΗΥ Θ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΒΕΛΙΣΣΑΡΙΟΥ"></Teacher><Subject name="Πληρ. Συστ."></Subject>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Teacher name="ΝΑΚΟΥ"></Teacher><Subject name="Προγραμματισμός ΗΥ Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΝΑΚΟΥ"></Teacher><Subject name="Προγραμματισμός ΗΥ Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΟΛ"></Teacher><Teacher name="ΑΝΑΣΤΑΣΙΟΥ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 6η)"></Activity_Tag>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΟΛ"></Teacher><Teacher name="ΑΝΑΣΤΑΣΙΟΥ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 6η)"></Activity_Tag>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΑΡΑΜΑΝΗΣ"></Teacher><Subject name="Τεχνική Υποστ Υπ Συστ και Δικτ Ε"></Subject><Room name="IT-27"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΨΩΜΑΣ"></Teacher><Subject name="Ειδ θέματα σε Υλικό και Δίκτυα Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΨΩΜΑΣ"></Teacher><Subject name="Ειδ θέματα σε Υλικό και Δίκτυα Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Teacher name="ΒΕΛΙΣΣΑΡΙΟΥ"></Teacher><Subject name="Πληρ. Συστ."></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΝΑΚΟΥ"></Teacher><Subject name="Προγραμματισμός ΗΥ Θ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΠΕΤΡΟΠΟΥΛΟΥ"></Teacher><Subject name="Δίκτυα ΗΥ Θ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΛΑΓΟΓΙΑΝΝΗ"></Teacher><Subject name="Χημεία"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΠΟΥΛΟΥ"></Teacher><Teacher name="ΜΩΚΟΥ"></Teacher><Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΛΑΓΟΓΙΑΝΝΗ"></Teacher><Subject name="Φυσική"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΠΕΤΡΟΠΟΥΛΟΥ"></Teacher><Subject name="Δίκτυα ΗΥ Ε"></Subject><Room name="IT-25"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="ΓΙ Αυτόματο Υποτμήμα">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Teacher name="ΓΚΟΒΟΣΤΗΣ"></Teacher><Subject name="Ανοσολογία Θ"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΔΙΑΜΑΝΤΗ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΖΑΛΟΚΩΣΤΑΣ"></Teacher><Subject name="Φυσ. Αγ"></Subject><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΛΑΓΟΓΙΑΝΝΗ"></Teacher><Subject name="Φυσική"></Subject><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΜΠΑΛΑΤΣΙΟΥ"></Teacher><Subject name="Χημεία"></Subject><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Teacher name="ΚΟΤΣΙΦΑΚΗΣ"></Teacher><Teacher name="ΑΣΠΡΟΥΛΗ"></Teacher><Subject name="Μικροβιολογία ΙΙ Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΚΟΤΣΙΦΑΚΗΣ"></Teacher><Teacher name="ΑΣΠΡΟΥΛΗ"></Teacher><Subject name="Μικροβιολογία ΙΙ Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΚΟΤΣΙΦΑΚΗΣ"></Teacher><Teacher name="ΑΣΠΡΟΥΛΗ"></Teacher><Subject name="Μικροβιολογία ΙΙ Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΚΟΤΣΙΦΑΚΗΣ"></Teacher><Teacher name="ΜΙΧΟΠΟΥΛΟΥ"></Teacher><Subject name="Ανοσολογία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΟΤΣΙΦΑΚΗΣ"></Teacher><Teacher name="ΜΙΧΟΠΟΥΛΟΥ"></Teacher><Subject name="Ανοσολογία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΜΙΧΟΠΟΥΛΟΥ"></Teacher><Subject name="Μικροβιολογία ΙΙ Θ"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΜΙΧΟΠΟΥΛΟΥ"></Teacher><Subject name="Αιματολογία Θ"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΔΙΑΜΑΝΤΗ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΔΙΑΜΑΝΤΗ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΛΑΓΟΓΙΑΝΝΗ"></Teacher><Subject name="Φυσική"></Subject><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Subject name="Υγιεινή"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΟΤΣΙΦΑΚΗΣ"></Teacher><Subject name="Κλινική Βιοχημεία Θ"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Teacher name="ΑΣΠΡΟΥΛΗ"></Teacher><Teacher name="ΚΟΤΣΙΦΑΚΗΣ"></Teacher><Subject name="Αιματολογία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΑΣΠΡΟΥΛΗ"></Teacher><Teacher name="ΚΟΤΣΙΦΑΚΗΣ"></Teacher><Subject name="Αιματολογία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΑΣΠΡΟΥΛΗ"></Teacher><Teacher name="ΚΟΤΣΙΦΑΚΗΣ"></Teacher><Subject name="Αιματολογία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΚΟΤΣΙΦΑΚΗΣ"></Teacher><Teacher name="ΑΣΠΡΟΥΛΗ"></Teacher><Subject name="Κλινική Βιοχημεία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΟΤΣΙΦΑΚΗΣ"></Teacher><Teacher name="ΑΣΠΡΟΥΛΗ"></Teacher><Subject name="Κλινική Βιοχημεία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΚΟΤΣΙΦΑΚΗΣ"></Teacher><Teacher name="ΑΣΠΡΟΥΛΗ"></Teacher><Subject name="Κλινική Βιοχημεία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΟΤΣΙΦΑΚΗΣ"></Teacher><Teacher name="ΑΣΠΡΟΥΛΗ"></Teacher><Subject name="Κλινική Βιοχημεία Ε"></Subject><Activity_Tag name="(εργ Γ Ι)"></Activity_Tag><Room name="Ιατρ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Teacher name="ΜΙΧΟΠΟΥΛΟΥ"></Teacher><Subject name="Αιματολογία Θ"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Subject name="Γεωμ"></Subject><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΓΚΟΥΜΠΑΡΑ"></Teacher><Subject name="Αγγλικά"></Subject><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Subject name="Υγιεινή"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΛΟΠΑΡΝΟΥ"></Teacher><Subject name="Εισ Η/Υ"></Subject><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΜΙΧΟΠΟΥΛΟΥ"></Teacher><Subject name="Μικροβιολογία ΙΙ Θ"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="ΓΦ1 Αυτόματο Υποτμήμα">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Teacher name="ΚΑΡΥΓΙΑΝΝΗΣ"></Teacher><Teacher name="ΠΕΡΤΕΣΗΣ"></Teacher><Subject name="Κινησιολογία Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΚΑΡΥΓΙΑΝΝΗΣ"></Teacher><Teacher name="ΠΕΡΤΕΣΗΣ"></Teacher><Subject name="Κινησιολογία Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΚΑΡΥΓΙΑΝΝΗΣ"></Teacher><Teacher name="ΠΕΡΤΕΣΗΣ"></Teacher><Subject name="Κινησιολογία Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΤΡΑΙΦΟΡΟΣ"></Teacher><Subject name="Φυσικά Μέσα και Εφρμ Θ"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΑΡΑΛΗΣ "></Teacher><Teacher name="ΠΕΡΤΕΣΗΣ"></Teacher><Subject name="Φυσικοθεραπεία Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΚΑΡΑΛΗΣ "></Teacher><Teacher name="ΠΕΡΤΕΣΗΣ"></Teacher><Subject name="Φυσικοθεραπεία Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΑΡΑΛΗΣ "></Teacher><Teacher name="ΠΕΡΤΕΣΗΣ"></Teacher><Subject name="Φυσικοθεραπεία Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Teacher name="ΤΡΑΙΦΟΡΟΣ"></Teacher><Subject name="Φυσικά Μέσα και Εφρμ Θ"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΓΚΟΥΜΠΑΡΑ"></Teacher><Subject name="Αγγλικά"></Subject><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Subject name="Γεωμ"></Subject><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΓΚΟΒΟΣΤΗΣ"></Teacher><Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΤΡΑΙΦΟΡΟΣ"></Teacher><Subject name="Φυσικοθεραπεία Θ"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΛΑΓΟΓΙΑΝΝΗ"></Teacher><Subject name="Φυσική"></Subject><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Teacher name="ΚΑΡΑΛΗΣ "></Teacher><Teacher name="ΠΑΝΑΓΙΩΤΟΥ"></Teacher><Subject name="Φυσικά Μέσα και Εφρμ Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΚΑΡΑΛΗΣ "></Teacher><Teacher name="ΠΑΝΑΓΙΩΤΟΥ"></Teacher><Subject name="Φυσικά Μέσα και Εφρμ Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΚΑΡΑΛΗΣ "></Teacher><Teacher name="ΠΑΝΑΓΙΩΤΟΥ"></Teacher><Subject name="Φυσικά Μέσα και Εφρμ Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΚΑΡΥΓΙΑΝΝΗΣ"></Teacher><Teacher name="ΠΑΝΑΓΙΩΤΟΥ"></Teacher><Subject name="Μάλαξη Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΑΡΥΓΙΑΝΝΗΣ"></Teacher><Teacher name="ΠΑΝΑΓΙΩΤΟΥ"></Teacher><Subject name="Μάλαξη Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΠΕΡΤΕΣΗΣ"></Teacher><Teacher name="ΚΑΡΑΛΗΣ "></Teacher><Subject name="Πρακτική Φυσ/θερ Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΠΕΡΤΕΣΗΣ"></Teacher><Teacher name="ΚΑΡΑΛΗΣ "></Teacher><Subject name="Πρακτική Φυσ/θερ Ε"></Subject><Activity_Tag name="(ΔεΤε)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Teacher name="ΓΕΝΕΤΖΑΚΗΣ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΤΡΑΙΦΟΡΟΣ"></Teacher><Subject name="Φυσικοθεραπεία Θ"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΓΚΟΒΟΣΤΗΣ"></Teacher><Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΛΑΓΟΓΙΑΝΝΗ"></Teacher><Subject name="Χημεία"></Subject><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΔΙΚΗ"></Teacher><Subject name="Υγιεινή"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΛΑΓΟΓΙΑΝΝΗ"></Teacher><Subject name="Φυσική"></Subject><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Teacher name="ΤΡΑΙΦΟΡΟΣ"></Teacher><Subject name="Πρακτική Φυσ/θερ Θ"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΖΑΛΟΚΩΣΤΑΣ"></Teacher><Subject name="Φυσ. Αγ"></Subject><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΓΚΟΒΟΣΤΗΣ"></Teacher><Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΔΙΚΗ"></Teacher><Subject name="Υγιεινή"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΓΕΝΕΤΖΑΚΗΣ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΓΕΝΕΤΖΑΚΗΣ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΛΟΠΑΡΝΟΥ"></Teacher><Subject name="Εισ Η/Υ"></Subject><Activity_Tag name="(ΓΦ1 οχιΘΔεΤε)"></Activity_Tag><Room name="IT-31"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="ΓΦ2 Αυτόματο Υποτμήμα">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Teacher name="ΔΙΚΗ"></Teacher><Subject name="Υγιεινή"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΤΡΑΙΦΟΡΟΣ"></Teacher><Subject name="Πρακτική Φυσ/θερ Θ"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΛΟΠΑΡΝΟΥ"></Teacher><Subject name="Εισ Η/Υ"></Subject><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΓΚΟΒΟΣΤΗΣ"></Teacher><Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΛΑΓΟΓΙΑΝΝΗ"></Teacher><Subject name="Φυσική"></Subject><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΛΑΓΟΓΙΑΝΝΗ"></Teacher><Subject name="Χημεία"></Subject><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Teacher name="ΚΑΡΑΛΗΣ "></Teacher><Subject name="Φυσικά Μέσα και Εφρμ Θ"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΤΡΑΙΦΟΡΟΣ"></Teacher><Teacher name="ΠΑΝΑΓΙΩΤΟΥ"></Teacher><Subject name="Φυσικοθεραπεία Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΤΡΑΙΦΟΡΟΣ"></Teacher><Teacher name="ΠΑΝΑΓΙΩΤΟΥ"></Teacher><Subject name="Φυσικοθεραπεία Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΤΡΑΙΦΟΡΟΣ"></Teacher><Teacher name="ΠΑΝΑΓΙΩΤΟΥ"></Teacher><Subject name="Φυσικοθεραπεία Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΑΡΥΓΙΑΝΝΗΣ"></Teacher><Teacher name="ΠΕΡΤΕΣΗΣ"></Teacher><Subject name="Κινησιολογία Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΚΑΡΥΓΙΑΝΝΗΣ"></Teacher><Teacher name="ΠΕΡΤΕΣΗΣ"></Teacher><Subject name="Κινησιολογία Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΑΡΥΓΙΑΝΝΗΣ"></Teacher><Teacher name="ΠΕΡΤΕΣΗΣ"></Teacher><Subject name="Κινησιολογία Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Teacher name="ΤΡΑΙΦΟΡΟΣ"></Teacher><Subject name="Φυσικοθεραπεία Θ"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΤΡΑΙΦΟΡΟΣ"></Teacher><Subject name="Φυσικοθεραπεία Θ"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΔΙΚΗ"></Teacher><Subject name="Υγιεινή"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΓΚΟΥΜΠΑΡΑ"></Teacher><Subject name="Αγγλικά"></Subject><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΟΛ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΛΑΓΟΓΙΑΝΝΗ"></Teacher><Subject name="Φυσική"></Subject><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΖΑΛΟΚΩΣΤΑΣ"></Teacher><Subject name="Φυσ. Αγ"></Subject><Room name="Γυμν"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΟΛ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΟΛ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Subject name="Γεωμ"></Subject><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΓΚΟΒΟΣΤΗΣ"></Teacher><Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΓΚΟΒΟΣΤΗΣ"></Teacher><Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΦ2 οχιΘΤρΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΑΡΑΛΗΣ "></Teacher><Subject name="Φυσικά Μέσα και Εφρμ Θ"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Teacher name="ΠΕΡΤΕΣΗΣ"></Teacher><Teacher name="ΠΑΝΑΓΙΩΤΟΥ"></Teacher><Subject name="Πρακτική Φυσ/θερ Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΠΕΡΤΕΣΗΣ"></Teacher><Teacher name="ΠΑΝΑΓΙΩΤΟΥ"></Teacher><Subject name="Πρακτική Φυσ/θερ Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΚΑΡΥΓΙΑΝΝΗΣ"></Teacher><Teacher name="ΠΕΡΤΕΣΗΣ"></Teacher><Subject name="Φυσικά Μέσα και Εφρμ Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΚΑΡΥΓΙΑΝΝΗΣ"></Teacher><Teacher name="ΠΕΡΤΕΣΗΣ"></Teacher><Subject name="Φυσικά Μέσα και Εφρμ Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΑΡΥΓΙΑΝΝΗΣ"></Teacher><Teacher name="ΠΕΡΤΕΣΗΣ"></Teacher><Subject name="Φυσικά Μέσα και Εφρμ Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΚΑΡΥΓΙΑΝΝΗΣ"></Teacher><Teacher name="ΚΑΡΑΛΗΣ "></Teacher><Subject name="Μάλαξη Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΑΡΥΓΙΑΝΝΗΣ"></Teacher><Teacher name="ΚΑΡΑΛΗΣ "></Teacher><Subject name="Μάλαξη Ε"></Subject><Activity_Tag name="(ΤρΠα)"></Activity_Tag><Room name="Φυσ"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="ΓΑΙ Αυτόματο Υποτμήμα">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Subject name="Γεωμ"></Subject><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΜΠΑΛΑΤΣΙΟΥ"></Teacher><Subject name="Χημεία"></Subject><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΛΑΓΟΓΙΑΝΝΗ"></Teacher><Subject name="Φυσική"></Subject><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΓΕΝΕΤΖΑΚΗΣ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΔΗΜ"></Teacher><Subject name="Κοσμητολογία-Τεχν Υλικών"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΔΗΜ"></Teacher><Subject name="SPA και Λουτροθερ Θ"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΔΙΚΗ"></Teacher><Subject name="Υγιεινή"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΓΚΟΥΜΠΑΡΑ"></Teacher><Subject name="Αγγλικά"></Subject><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΔΗΜ"></Teacher><Subject name="Κοσμητολογία-Τεχν Υλικών"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΛΑΓΟΓΙΑΝΝΗ"></Teacher><Subject name="Φυσική"></Subject><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΛΟΠΑΡΝΟΥ"></Teacher><Subject name="Εισ Η/Υ"></Subject><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag><Room name="IT-31"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΔΗΜ"></Teacher><Teacher name="ΖΙΩΤΗ"></Teacher><Subject name="Μακιγιάζ Ε"></Subject><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΔΗΜ"></Teacher><Teacher name="ΖΙΩΤΗ"></Teacher><Subject name="Μακιγιάζ Ε"></Subject><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΔΗΜ"></Teacher><Teacher name="ΖΙΩΤΗ"></Teacher><Subject name="Μακιγιάζ Ε"></Subject><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΔΗΜ"></Teacher><Subject name="Σύγχρονη Αισθητική ΙΙ Θ"></Subject>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΠΑΝΤΟΥ"></Teacher><Teacher name="ΖΙΩΤΗ"></Teacher><Subject name="Σύγχρονη Αισθητική ΙΙ Ε"></Subject><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΠΑΝΤΟΥ"></Teacher><Teacher name="ΖΙΩΤΗ"></Teacher><Subject name="Σύγχρονη Αισθητική ΙΙ Ε"></Subject><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΠΑΝΤΟΥ"></Teacher><Teacher name="ΖΙΩΤΗ"></Teacher><Subject name="Σύγχρονη Αισθητική ΙΙ Ε"></Subject><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΓΕΝΕΤΖΑΚΗΣ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΓΕΝΕΤΖΑΚΗΣ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΔΙΚΗ"></Teacher><Subject name="Υγιεινή"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΖΙΩΤΗ"></Teacher><Subject name="SPA και Λουτροθερ Ε"></Subject><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΖΙΩΤΗ"></Teacher><Subject name="SPA και Λουτροθερ Ε"></Subject><Room name="Αισ ΔεΤρΠε"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Teacher name="ΖΑΛΟΚΩΣΤΑΣ"></Teacher><Subject name="Φυσ. Αγ"></Subject><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΖΙΩΤΗ"></Teacher><Teacher name="ΠΑΝΤΟΥ"></Teacher><Subject name="Σύγχρονη Αισθητική ΙΙ Ε"></Subject><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΖΙΩΤΗ"></Teacher><Teacher name="ΠΑΝΤΟΥ"></Teacher><Subject name="Σύγχρονη Αισθητική ΙΙ Ε"></Subject><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΖΙΩΤΗ"></Teacher><Teacher name="ΠΑΝΤΟΥ"></Teacher><Subject name="Σύγχρονη Αισθητική ΙΙ Ε"></Subject><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΖΙΩΤΗ"></Teacher><Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΔΗΜ"></Teacher><Subject name="Αισθητική Άκρων - Ονυχοπλ Ε"></Subject><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΖΙΩΤΗ"></Teacher><Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΔΗΜ"></Teacher><Subject name="Αισθητική Άκρων - Ονυχοπλ Ε"></Subject><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΖΙΩΤΗ"></Teacher><Teacher name="ΠΑΠΑΔΟΠΟΥΛΟΥ ΔΗΜ"></Teacher><Subject name="Αισθητική Άκρων - Ονυχοπλ Ε"></Subject><Room name="Αισ ΤεΠα"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="ΓΒΡ Αυτόματο Υποτμήμα">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Teacher name="ΖΑΛΟΚΩΣΤΑΣ"></Teacher><Subject name="Φυσ. Αγ"></Subject><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΚΗ"></Teacher><Teacher name="ΚΑΥΚΟΥΛΑ"></Teacher><Subject name="Μουσικοκινητική Αγωγή Ε"></Subject><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΚΑΥΚΟΥΛΑ"></Teacher><Subject name="Αγωγή Βρέφους και Νηπίου Θ"></Subject>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΠΑΝΤΟΥ"></Teacher><Teacher name="ΚΑΥΚΟΥΛΑ"></Teacher><Subject name="Παιδαγ Περιβ Βρεφνηπ Στ Ε"></Subject><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΠΑΝΤΟΥ"></Teacher><Teacher name="ΚΑΥΚΟΥΛΑ"></Teacher><Subject name="Παιδαγ Περιβ Βρεφνηπ Στ Ε"></Subject><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΠΑΝΤΟΥ"></Teacher><Teacher name="ΚΑΥΚΟΥΛΑ"></Teacher><Subject name="Παιδαγ Περιβ Βρεφνηπ Στ Ε"></Subject><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΑΥΚΟΥΛΑ"></Teacher><Subject name="Στοιχεία Γεν και Εξελ Ψυχλγ"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Teacher name="ΑΝΕΣΤΑΚΟΥ"></Teacher><Teacher name="ΓΕΝΕΤΖΑΚΗΣ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΑΝΕΣΤΑΚΟΥ"></Teacher><Teacher name="ΓΕΝΕΤΖΑΚΗΣ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΛΑΓΟΓΙΑΝΝΗ"></Teacher><Subject name="Φυσική"></Subject><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΓΚΟΒΟΣΤΗΣ"></Teacher><Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΛΟΠΑΡΝΟΥ"></Teacher><Subject name="Εισ Η/Υ"></Subject><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΚΑΥΚΟΥΛΑ"></Teacher><Teacher name="ΒΟΓΛΗ"></Teacher><Subject name="Αγωγή Βρέφους και Νηπίου Ε"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΑΥΚΟΥΛΑ"></Teacher><Teacher name="ΒΟΓΛΗ"></Teacher><Subject name="Αγωγή Βρέφους και Νηπίου Ε"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Teacher name="ΠΑΠΑΚΩΝΣΤΑΝΤΙΝΟΥ"></Teacher><Subject name="Λογοτεχνία Προσχ Ηλ"></Subject><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΠΑΠΑΚΩΝΣΤΑΝΤΙΝΟΥ"></Teacher><Subject name="Λογοτεχνία Προσχ Ηλ"></Subject><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΠΟΥΛΟΥ"></Teacher><Subject name="Γεωμ"></Subject><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΔΙΚΗ"></Teacher><Subject name="Υγιεινή"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΓΚΟΥΜΠΑΡΑ"></Teacher><Subject name="Αγγλικά"></Subject><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΠΟΥΛΟΥ"></Teacher><Teacher name="ΜΩΚΟΥ"></Teacher><Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΛΑΓΟΓΙΑΝΝΗ"></Teacher><Subject name="Φυσική"></Subject><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΚΗ"></Teacher><Teacher name="ΠΑΝΤΟΥ"></Teacher><Subject name="Δημ Απ  Προσχ Ηλικία ΙΙ Ε"></Subject><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΚΗ"></Teacher><Teacher name="ΠΑΝΤΟΥ"></Teacher><Subject name="Δημ Απ  Προσχ Ηλικία ΙΙ Ε"></Subject><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΚΗ"></Teacher><Teacher name="ΠΑΝΤΟΥ"></Teacher><Subject name="Δημ Απ  Προσχ Ηλικία ΙΙ Ε"></Subject><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΚΗ"></Teacher><Teacher name="ΠΑΝΤΟΥ"></Teacher><Subject name="Δημ Απ  Προσχ Ηλικία ΙΙ Ε"></Subject><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΚΑΥΚΟΥΛΑ"></Teacher><Subject name="Αγωγή Βρέφους και Νηπίου Θ"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΠΑΝΤΟΥ"></Teacher><Teacher name="ΚΑΥΚΟΥΛΑ"></Teacher><Subject name="Παιδαγ Περιβ Βρεφνηπ Στ Ε"></Subject><Room name="Βρφ ΔεΠε"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΚΑΥΚΟΥΛΑ"></Teacher><Subject name="Στοιχεία Γεν και Εξελ Ψυχλγ"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Teacher name="ΑΝΕΣΤΑΚΟΥ"></Teacher><Teacher name="ΓΕΝΕΤΖΑΚΗΣ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΜΠΑΛΑΤΣΙΟΥ"></Teacher><Subject name="Χημεία"></Subject><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΔΙΚΗ"></Teacher><Subject name="Υγιεινή"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΓΚΟΒΟΣΤΗΣ"></Teacher><Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΓΚΟΒΟΣΤΗΣ"></Teacher><Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΠΟΥΛΟΥ"></Teacher><Teacher name="ΜΩΚΟΥ"></Teacher><Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΒΡ οχιΘΔεΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΑΠΟΣΤΟΛΑΚΗ"></Teacher><Teacher name="ΚΑΥΚΟΥΛΑ"></Teacher><Subject name="Μουσικοκινητική Αγωγή Ε"></Subject><Room name="Βρφ ΤρΤεΠα"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="ΓΝ Αυτόματο Υποτμήμα">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Teacher name="ΝΙΚΟΛΑΙΔΗ"></Teacher><Subject name="Νοσηλευτική ΙΙ Θ"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΔΙΑΜΑΝΤΗ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΖΑΛΟΚΩΣΤΑΣ"></Teacher><Subject name="Φυσ. Αγ"></Subject><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΛΑΓΟΓΙΑΝΝΗ"></Teacher><Subject name="Φυσική"></Subject><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΜΠΑΛΑΤΣΙΟΥ"></Teacher><Subject name="Χημεία"></Subject><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Teacher name="ΔΙΚΗ"></Teacher><Subject name="Στοιχεία Παθολογίας"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΜΟΡΑΚΗ"></Teacher><Subject name="Νοσηλευτική ΙΙ Ε"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΜΟΡΑΚΗ"></Teacher><Subject name="Νοσηλευτική ΙΙ Ε"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΝΙΚΟΛΑΙΔΗ"></Teacher><Subject name="Χειρουργική-Τεχν Χειρ Ε"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΝΙΚΟΛΑΙΔΗ"></Teacher><Subject name="Χειρουργική-Τεχν Χειρ Ε"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΜΟΡΑΚΗ"></Teacher><Subject name="Νοσηλευτική ΙΙ Ε"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΜΟΡΑΚΗ"></Teacher><Subject name="Νοσηλευτική ΙΙ Ε"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΔΙΑΜΑΝΤΗ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΔΙΑΜΑΝΤΗ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Room name="υποδιευθ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΛΑΓΟΓΙΑΝΝΗ"></Teacher><Subject name="Φυσική"></Subject><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Subject name="Υγιεινή"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΝΙΚΟΛΑΙΔΗ"></Teacher><Subject name="Νοσηλευτική ΙΙ Θ"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Teacher name="ΜΟΡΑΚΗ"></Teacher><Subject name="Νοσηλευτική ΙΙ Ε"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΜΟΡΑΚΗ"></Teacher><Subject name="Νοσηλευτική ΙΙ Ε"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΜΟΡΑΚΗ"></Teacher><Subject name="Νοσηλευτική ΙΙ Ε"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΜΟΡΑΚΗ"></Teacher><Subject name="Νοσηλευτική ΙΙ Ε"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΜΟΡΑΚΗ"></Teacher><Subject name="Στοιχεία Μαιευτικής-Γυναικ"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΜΟΡΑΚΗ"></Teacher><Subject name="Νοσηλευτική ΙΙ Ε"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΜΟΡΑΚΗ"></Teacher><Subject name="Νοσηλευτική ΙΙ Ε"></Subject><Room name="Νοσ"></Room>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Teacher name="ΜΟΡΑΚΗ"></Teacher><Subject name="Στοιχεία Μαιευτικής-Γυναικ"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Subject name="Γεωμ"></Subject><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΓΚΟΥΜΠΑΡΑ"></Teacher><Subject name="Αγγλικά"></Subject><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Subject name="Υγιεινή"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΛΟΠΑΡΝΟΥ"></Teacher><Subject name="Εισ Η/Υ"></Subject><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag><Room name="IT-31"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΙ οχιΘΤρΠε)"></Activity_Tag>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΔΙΚΗ"></Teacher><Subject name="Στοιχεία Παθολογίας"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="ΓΦΜ Αυτόματο Υποτμήμα">
+   <Day name="Δε">
+    <Hour name="1η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Subject name="Γεωμ"></Subject><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag><Activity_Tag name="(οχι 7η)"></Activity_Tag>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΜΠΑΛΑΤΣΙΟΥ"></Teacher><Subject name="Χημεία"></Subject><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΛΑΓΟΓΙΑΝΝΗ"></Teacher><Subject name="Φυσική"></Subject><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΓΕΝΕΤΖΑΚΗΣ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΑΣΗΜΟΠΟΥΛΟΥ"></Teacher><Subject name="Φαρμακολογία-Τοξικολογία"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΑΣΗΜΟΠΟΥΛΟΥ"></Teacher><Subject name="Φαρμακολογία-Τοξικολογία"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Τρ">
+    <Hour name="1η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΔΙΚΗ"></Teacher><Subject name="Υγιεινή"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΓΚΟΥΜΠΑΡΑ"></Teacher><Subject name="Αγγλικά"></Subject><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Subject name="Συνταγ-Νομοθ-Βιβλία Φαρμ"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΛΑΓΟΓΙΑΝΝΗ"></Teacher><Subject name="Φυσική"></Subject><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΛΟΠΑΡΝΟΥ"></Teacher><Subject name="Εισ Η/Υ"></Subject><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag><Room name="IT-31"></Room>
+    </Hour>
+   </Day>
+   <Day name="Τε">
+    <Hour name="1η">
+     <Teacher name="ΑΣΗΜΟΠΟΥΛΟΥ"></Teacher><Subject name="Φαρμακολογία-Τοξικολογία"></Subject>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΑΣΗΜΟΠΟΥΛΟΥ"></Teacher><Subject name="Φαρμακολογία-Τοξικολογία"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Subject name="Φαρμακευτική Τεχ ΙΙ Ε"></Subject><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Subject name="Φαρμακευτική Τεχ ΙΙ Ε"></Subject><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΔΙΚΗ"></Teacher><Subject name="Κοσμητολογία Ε"></Subject><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΔΙΚΗ"></Teacher><Subject name="Κοσμητολογία Ε"></Subject><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΔΙΚΗ"></Teacher><Subject name="Κοσμητολογία Θ"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Πε">
+    <Hour name="1η">
+     <Teacher name="ΨΑΛΛΙΔΑΣ"></Teacher><Subject name="Άλγ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΓΕΝΕΤΖΑΚΗΣ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΓΕΝΕΤΖΑΚΗΣ"></Teacher><Subject name="Νέα Ελ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(οχι 6η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΔΙΚΗ"></Teacher><Subject name="Υγιεινή"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Subject name="Ανατομία-Φυσιολογία ΙΙ"></Subject><Activity_Tag name="(οχι 7η)"></Activity_Tag><Activity_Tag name="(ΓΑΙ οχιΘΤεΠα)"></Activity_Tag>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Subject name="Συνταγ-Νομοθ-Βιβλία Φαρμ"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΑΡΧΟΝΤΗ"></Teacher><Subject name="Φαρμακευτική Τεχ ΙΙ Θ"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Πα">
+    <Hour name="1η">
+     <Teacher name="ΖΑΛΟΚΩΣΤΑΣ"></Teacher><Subject name="Φυσ. Αγ"></Subject><Room name="Γυμν"></Room>
+    </Hour>
+    <Hour name="2η">
+     <Teacher name="ΜΙΧΟΠΟΥΛΟΥ"></Teacher><Subject name="Στοιχεία Φαρμακογν Θ"></Subject>
+    </Hour>
+    <Hour name="3η">
+     <Teacher name="ΜΙΧΟΠΟΥΛΟΥ"></Teacher><Subject name="Στοιχεία Φαρμακογν Ε"></Subject><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="4η">
+     <Teacher name="ΜΙΧΟΠΟΥΛΟΥ"></Teacher><Subject name="Στοιχεία Φαρμακογν Ε"></Subject><Room name="Ιατρ"></Room>
+    </Hour>
+    <Hour name="5η">
+     <Teacher name="ΜΙΧΟΠΟΥΛΟΥ"></Teacher><Subject name="Στοιχεία Φαρμακογν Θ"></Subject>
+    </Hour>
+    <Hour name="6η">
+     <Teacher name="ΑΣΗΜΟΠΟΥΛΟΥ"></Teacher><Subject name="Φαρμακολογία-Τοξικολογία"></Subject>
+    </Hour>
+    <Hour name="7η">
+     <Teacher name="ΑΣΗΜΟΠΟΥΛΟΥ"></Teacher><Subject name="Φαρμακολογία-Τοξικολογία"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+</Students_Timetable>
