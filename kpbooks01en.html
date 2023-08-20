@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="utf-8" />
+  <title>KapaPi Software OÜ </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+  <link rel="icon" href="img/favicon.ico">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+
+  <!-- Custom styles for this template -->  
+  <link href="css/pricing.css" rel="stylesheet">  
+  
+  <!-- Font Awesome icons (free version)-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js" crossorigin="anonymous"></script>
+  <!-- Fonts CSS-->
+  <link rel="stylesheet" href="css/heading.css">
+  <link rel="stylesheet" href="css/body.css">  
+  
+  <script>
+	  $(function(){
+		var includes = $('[data-include]');
+		jQuery.each(includes, function(){
+		  var file = $(this).data('include') + '.html';
+		  $(this).load(file);
+		});
+	  });	  	 
+	  
+	  function doLang( e) 
+	  {
+	    
+		localStorage.setItem("langindex", e.selectedIndex);
+		if (e.selectedIndex == 0)
+			document.body.className='en';
+		else if(e.selectedIndex == 1)
+			document.body.className='el';
+	  }
+	  
+	  function onCreate()
+	  {
+	    langindex = localStorage.getItem("langindex");
+		if(langindex== null) 
+		{ 
+		  langindex=0;
+		  localStorage.setItem("langindex", langindex);
+		}
+		document.getElementById('cbLang').selectedIndex=langindex;
+		if (langindex == 0)
+			document.body.className='en';
+		else if(langindex == 1)
+			document.body.className='el';
+	  }
+	</script>  
+	<style>
+.carousel-indicators li {
+  background-color: #999 !important;
+  background-color: rgba(70,70,70,.25) !important;
+  border:1px solid #444;
+}
+
+.carousel-indicators .active {
+  background-color: #444 !important;
+}
+
+</style>
+</head>
+
+<body lang="" onload="onCreate()"> <!-- onload="document.body.className='en'">-->
+	
+<nav class="navbar navbar-expand-lg bg-secondary " id="mainNav"> <!-- fixed-top -->
+	<div class="container">
+		<!--div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom box-shadow"-->
+		<a class="navbar-brand js-scroll-trigger" href="index.html"> 
+		<!--img src="kapapilogo_WHITE.png" width="60" height="60" alt="">KapaPi Software OÜ</a-->
+			<img src="img/kapapilogo.svg" width="60" height="60" alt="">KapaPi Software OÜ
+		</a> 
+				
+		<select id='cbLang' onchange="doLang(this);" onfocus="this.selectedIndex = -1;">
+			<option selected>English</option>
+			<option>Ελληνικά</option>
+		</select>
+	
+	</div>
+</nav>
+
+<script>
+	function doLang( e) 
+	  {
+	    
+		localStorage.setItem("langindex", e.selectedIndex);
+		if(e.selectedIndex == 1)
+			window.location.href = "kpbooks01gr.html";;
+	  }
+</script>
+
+<header class="masthead bg-primary text-white text-center"> <!-- onload="document.body.className='en'">-->
+    <div class="container d-flex align-items-center flex-column">
+		<h1 class="masthead-heading mb-0">kp-Books</h1>
+		<!-- Icon Divider-->
+		<div class="divider-custom divider-light">
+			<div class="divider-custom-line"></div>
+			<div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+			<div class="divider-custom-line"></div>
+		</div>
+		<!-- Masthead Subheading-->
+		<p class="pre-wrap masthead-subheading font-weight-light mb-0"> for android devices + Windows 10 computers</p>
+
+		<p class="pre-wrap masthead-subheading font-weight-light mb-0">Easy accounting for small businesses. Sales, Expenses, Invoices, Inventory, Projects </p>
+
+	
+	  	<p>It gives you the ability to do things offline and then save them to your email account or Dropbox folder.
+There is also a windows 10 version of this app, which gives you the ability to sync data between your phone and your desktop.</p>
+	</div>
+</header>
+
+<div class="container">
+  	<div class="row">
+		<div class="col-sm">
+			<div id="myCarousel" class="carousel carousel-dark slide" data-bs-ride="carousel">
+				<!-- Indicators 
+				<ol class="carousel-indicators">
+					<li data-target="#myCarousel" data-bs-slide-to="0" class="active"></li>
+					<li data-target="#myCarousel" data-bs-slide-to="1"></li>
+					<li data-target="#myCarousel" data-bs-slide-to="2"></li>
+					<li data-target="#myCarousel" data-bs-slide-to="3"></li>
+					<li data-target="#myCarousel" data-bs-slide-to="4"></li>
+				</ol>-->
+				<div class="carousel-inner">
+					<div class="carousel-item active ">
+						<img class="d-block w-75" src="img/books01en.png" alt="First slide">
+					</div>
+					<div class="carousel-item ">
+						<img class="d-block w-75" src="img/books02en.png" alt="Second slide">
+					</div>
+					<div class="carousel-item ">
+						<img class="d-block w-75" src="img/books03en.png" alt="Third slide">
+					</div>
+					<div class="carousel-item ">
+						<img class="d-block w-75" src="img/books04en.png" alt="Third slide">
+					</div>
+					<div class="carousel-item ">
+						<img class="d-block w-75" src="img/books05en.png" alt="Third slide">
+					</div>
+				</div>
+
+				<a class="carousel-control-prev" href="#myCarousel" role="button" data-bs-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="visually-hidden">Previous</span>
+				</a>
+				<a class="carousel-control-next" href="#myCarousel" role="button" data-bs-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="visually-hidden">Next</span>
+				</a>
+
+			</div>
+		</div>
+		<div class="col-sm">
+			<ul class="list-group list-group-flush">
+			<li class="list-group-item">Track sales and print invoices</li>
+			<li class="list-group-item">Track expenses and vendors balances</li>
+			<li class="list-group-item">Track projects expenses and revenues</li>
+			<li class="list-group-item">Track employees’ time</li>
+			<li class="list-group-item">Track vehicles’ expenses</li>
+			<li class="list-group-item">Reports (Balance sheet, Income statement, Cash flow)</li>
+			</ul>
+			<div style="height: 20px; "></div>
+      		<!--<div class="text-center"><a href="guides/en/kpbooks_guide_en.html"><img src="img/user-manual-50.png"/>Users Guide</a></div>-->
+      		<div class="text-center"><a href="kpbooks_guide_en.html"><img src="img/user-manual-50.png"/>Users Guide</a></div>
+
+		</div>			
+		
+	</div><!-- row -->
+
+ <div style="height: 20px; "></div>
+<div class="row">
+	<div class="text-center bg-secondary text-white">Android</div>
+</div>
+
+<div class="row">
+	<div class="col-sm d-flex">
+		<div class="card mt-3" style="width: 18rem;">
+			<img src="img/ic_launcher.png" class="card-img-top img-responsive" alt="..."  style='width: 75px; height: 75px;'>
+			<div class="card-body">
+				<h5 class="card-title">free kp-Books</h5>
+				<p class="card-text">Start with the free edition for android (available on Google Play). Although free, it gives you all the basic features.</p>
+				<a href='https://play.google.com/store/apps/details?id=com.kapapi.freekpbooks'>
+					<img src='img/google-play-badge.png' 
+						alt='Greek badge' style='width: 227px; height: 83px;'/>
+				</a>
+				<br><a href="kpbooks_ver_en.html">version 2.3.9</a> </p>
+			</div>
+		</div>
+	</div>
+
+	
+	<div class="col-sm d-flex">
+      <div class="card mt-3" style="width: 18rem;">
+        <img src="img/ic_launcher.png" class="card-img-top img-responsive" alt="..."  style='width: 75px; height: 75px;'>
+        <div class="card-body">
+          <h5 class="card-title">kp-Books</h5>
+          <p class="card-text">Unlock all the features of the program with the full version for android.</p>
+          <script src="https://cdn.paddle.com/paddle/paddle.js"></script>
+          <script type="text/javascript">
+                    Paddle.Setup({ vendor: 119097 });
+          </script>
+          <a href="#!" class="paddle_button" data-product="610223">Buy now!</a>
+        </div>
+      </div>
+    </div>
+   
+</div> 
+
+<div style="height: 20px; "></div>
+<div class="row">
+	<div class="text-center bg-secondary text-white"> Windows 10</div>
+</div>
+
+<div class="row">
+	<div class="col-sm d-flex">
+      <div class="card mt-3" style="width: 18rem">
+        <img src="img/ic_launcher.png" class="card-img-top img-responsive" alt="..."  style='width: 75px; height: 75px;'>
+        <div class="card-body">
+          <h5 class="card-title">free kp-Books</h5>
+          <p class="card-text">Start with the free edition for Windows 10. Although free, it gives you all the basic features.</p>
+          
+		  <a href='https://www.microsoft.com/en-us/p/free-kp-books/9n5h4g06xnrr?cid=storebadge&ocid=badge&rtc=1&activetab=pivot:overviewtab'>
+            <img src='https://developer.microsoft.com/store/badges/images//English_get-it-from-MS.png' 
+                alt='Greek badge' style='width: 227px; height: 83px;'/>
+          </a>
+		  <br><a href="kpbooks_ver_en.html">version 2.3.6</a>
+        </div>
+      </div>
+	</div>  
+		<div class="col-sm d-flex">
+			<div class="card mt-3" style="width: 18rem;">
+				<img src="img/ic_launcher.png" class="card-img-top img-responsive" alt="..."  style='width: 75px; height: 75px;'>
+				<div class="card-body">
+					<h5 class="card-title">free kp-Books</h5>
+					<p class="card-text">Start with the free edition for Windows 10. Although free, it gives you all the basic features.</p>
+					<p><a class="btn btn-primary"  href="https://www.kapapi.com/downloads/uwp/freekpbooks/freekpbooks.UWP_2.3.6.0.zip">Download</a>
+					<br><a href="kpbooks_ver_en.html">version 2.3.6</a> </p>
+					<p><a  href="https://www.kapapi.com/downloads/uwp/kp-BooksInstallationWindows10.pdf">Installation guide for Windows 10</a></p>				
+				</div>
+			</div>
+		</div>
+	<div class="col-sm d-flex">
+      <div class="card mt-3" style="width: 18rem;">
+        <img src="img/ic_launcher.png" class="card-img-top img-responsive" alt="..."  style='width: 75px; height: 75px;'>
+        <div class="card-body">
+          <h5 class="card-title">kp-Books</h5>
+          <p class="card-text">Unlock all the features of the program with the full version for Windows 10.</p>
+          <script src="https://cdn.paddle.com/paddle/paddle.js"></script>
+          <script type="text/javascript">
+                    Paddle.Setup({ vendor: 119097 });
+          </script>
+          <a href="#!" class="paddle_button" data-product="645195">Buy now!</a>
+        </div>
+      </div>
+    </div>
+
+	</div><!-- row -->
+
+	<div style="height: 20px; background-color: rgba(255,0,0,0);"></div>
+</div> <!-- container -->
+
+
+<footer class=" footer text-center py-5 ">
+
+		<div class="row ">
+			<div class="col-6 col-md text-center">
+				<!--mg class="mb-2" src="kapapilogo.svg" alt="" width="24" height="24"-->
+				<small class="d-block mb-3 ">Copyright © 2022 KapaPi Software OU </small>
+				
+				<small class="d-block mb-3 ">Logo Created by monogramframes.com</small>
+				<!--<p><small class="d-block mb-3 text-muted">
+				DNS Powered by <font color="#006699"><a href="http://www.dnsExit.com">DNS</a></font><a href="http://www.dnsExit.com"><font color="#FF6600">EXIT</font>.COM</a></small></p> -->
+				<small class="d-block mb-3 ">	<a href="privacy-policy-kapapi.html" style="color:white; ">privacy policy</a></small>
+			</div>
+
+			<div class="col-6 col-md text-center">
+				<h6>KapaPi Software OÜ</h6>
+				<ul class="list-unstyled text-small">
+					<li>registry code 14540898</li>
+					<li>Kuusalu vald, Pudisoo küla, Männimäe, 74626, Estonia </li>					
+				</ul>
+				<div class="d-flex flex-column align-items-center">
+					<div> <i class="far fa-envelope"></i>
+						<a class="lead font-weight-bold" href="mailto:kapapisoftware@gmail.com"  style="color:white;">kapapisoftware@gmail.com</a>
+					</div>						
+				</div>
+			</div>
+		</div><!-- row -->
+	
+</footer><!-- footer -->
+
+</body>
+
+</html>

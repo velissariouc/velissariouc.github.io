@@ -1,0 +1,49 @@
+{{> header_doc}}
+<div class=" bd-layout"><!-- class="container-xxl bd-gutter mt-3 my-md-4 bd-layout">-->
+    <aside class="bd-sidebar">
+        
+        <div class="offcanvas-lg offcanvas-start" tabindex="-1" id="bdSidebar" aria-labelledby="bdSidebarOffcanvasLabel">
+            <div class="offcanvas-header border-bottom">
+            <h5 class="offcanvas-title" id="bdSidebarOffcanvasLabel">Browse docs</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close" data-bs-target="#bdSidebar"></button>
+            </div>
+
+            <div class="offcanvas-body">
+            <nav class="bd-links w-100" id="bd-docs-nav" aria-label="Docs navigation"><ul class="bd-links-nav list-unstyled mb-0 pb-3 pb-md-2 pe-lg-2">
+        <li class="bd-links-group py-2">
+        
+
+            <ul class="list-unstyled fw-normal pb-2 small">
+                <li><a href="#" onclick='document.getElementById("iframe").setAttribute("data", "/docs/en/kpbooks_intro.html");'class="bd-links-link d-inline-block rounded">
+                Starting the app for the first time</a></li>
+                <li><a href="#" onclick='document.getElementById("iframe").setAttribute("data", "/docs/en/clients.html");' class="bd-links-link d-inline-block rounded">
+                Customers</a></li>
+                <li><a href="#" onclick='document.getElementById("iframe").setAttribute("data", "/docs/en/projects.html");' class="bd-links-link d-inline-block rounded">
+                Projects</a></li>
+                <li><a href="#" onclick='document.getElementById("iframe").setAttribute("data", "/docs/en/import_excel_file.html");' class="bd-links-link d-inline-block rounded">
+                Import data from excel file</a></li>
+                <li><a href="#" onclick='document.getElementById("iframe").setAttribute("data", "/docs/en/data_sync.html");' class="bd-links-link d-inline-block rounded">
+                Sync data between devices</a></li>
+            </ul>
+        </li>
+        
+        
+    </ul>
+    </nav>
+
+            </div>
+        </div>
+
+    </aside>   
+
+<main  class="container">
+    
+        <object type="text/html" id="iframe" data="docs/en/kpbooks_intro.html" width="100%"  height="2000"  ></object>
+
+</main>
+
+</div>
+<script>
+document.getElementById('title').innerHTML = "kpBooks User Guide";
+</script>
+{{> footer}}

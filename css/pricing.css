@@ -1,0 +1,90 @@
+body:not(.en) :lang(en), 
+body:not(.el) :lang(el), 
+body:not(.fr) :lang(fr) { 
+    display: none; 
+}
+
+body { min-height: 100vh; }
+.bg-primary {
+    background-color: #fc766a !important;
+}
+
+.bg-secondary {
+    background-color: #5b84b1 !important;
+}
+
+.dropdown-header {
+    display: block;
+    padding: 0.5rem 1.5rem;
+    margin-bottom: 0;
+    font-size: 0.875rem;
+    color: #6c757d;
+    white-space: nowrap;
+  }
+  
+
+.footer {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: #2d4157;
+    color: #fff;
+  }
+  
+  .divider-custom {
+    margin: 1.25rem 0 1.5rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .divider-custom .divider-custom-line {
+    width: 100%;
+    max-width: 7rem;
+    height: 0.25rem;
+    background-color: #5b84b1;
+    border-radius: 1rem;
+    border-color: #5b84b1 !important;
+  }
+  .divider-custom .divider-custom-line:first-child {
+    margin-right: 1rem;
+  }
+  .divider-custom .divider-custom-line:last-child {
+    margin-left: 1rem;
+  }
+  .divider-custom .divider-custom-icon {
+    color: #5b84b1 !important;
+    font-size: 2rem;
+  }
+  .divider-custom.divider-light .divider-custom-line {
+    background-color: #fff;
+  }
+  .divider-custom.divider-light .divider-custom-icon {
+    color: #fff !important;
+  }
+  
+  
+  .masthead {
+    padding-top: calc(2rem + 0px);
+    padding-bottom: 2rem;
+  }
+  .masthead .masthead-heading {
+    font-size: 2.75rem;
+    line-height: 2.75rem;
+  }
+  .masthead .masthead-subheading {
+    font-size: 1.25rem;
+  }
+  .masthead .masthead-avatar {
+    width: 15rem;
+  }
+  
+  h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    margin-bottom: 0.5rem;
+    font-family: "SB Heading", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+#mainNav .navbar-brand {
+    color: #fff;
+}

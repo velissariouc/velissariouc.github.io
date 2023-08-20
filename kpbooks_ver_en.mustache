@@ -1,0 +1,34 @@
+{{> header}}
+
+<script>
+	function doLang( e) 
+	{	    
+		localStorage.setItem("langindex", e.selectedIndex);
+		if(e.selectedIndex == 1)
+			window.location.href = "kpbooks_ver_gr.html";;
+	}
+</script>
+
+<header class="masthead bg-primary text-white text-center">
+	<h2>kp-Books versions</h2>
+</header>
+
+<div class="container">
+    <div class="row">
+        <p><b>6/21/2021 version 2.3.9</b> 
+        <br>- Improvement in importing data from excel file (opening balances)
+        <br>- Start date (Menu "Settings"-"Date warning")
+        <br>- Credit memo
+        <br>- Bug fixes 
+        </p>
+    </div>
+    <div class="row">
+        <p><b>2/3/2021 version 2.3.6</b> 
+        <br>- Import data from excel file
+        <br>- Export data to excel file
+        <br>- User can define number of decimal digits for inventory item prices
+        </p>
+    </div>
+</div>
+
+{{> footer}}

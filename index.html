@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="utf-8" />
+  <title>KapaPi Software OÜ </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+  <link rel="icon" href="img/favicon.ico">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+
+  <!-- Custom styles for this template -->  
+  <link href="css/pricing.css" rel="stylesheet">  
+  
+  <!-- Font Awesome icons (free version)-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js" crossorigin="anonymous"></script>
+  <!-- Fonts CSS-->
+  <link rel="stylesheet" href="css/heading.css">
+  <link rel="stylesheet" href="css/body.css">  
+  
+  <script>
+	  $(function(){
+		var includes = $('[data-include]');
+		jQuery.each(includes, function(){
+		  var file = $(this).data('include') + '.html';
+		  $(this).load(file);
+		});
+	  });	  	 
+	  
+	  function doLang( e) 
+	  {
+	    
+		localStorage.setItem("langindex", e.selectedIndex);
+		if (e.selectedIndex == 0)
+			document.body.className='en';
+		else if(e.selectedIndex == 1)
+			document.body.className='el';
+	  }
+	  
+	  function onCreate()
+	  {
+	    langindex = localStorage.getItem("langindex");
+		if(langindex== null) 
+		{ 
+		  langindex=0;
+		  localStorage.setItem("langindex", langindex);
+		}
+		document.getElementById('cbLang').selectedIndex=langindex;
+		if (langindex == 0)
+			document.body.className='en';
+		else if(langindex == 1)
+			document.body.className='el';
+	  }
+	</script>  
+	<style>
+.carousel-indicators li {
+  background-color: #999 !important;
+  background-color: rgba(70,70,70,.25) !important;
+  border:1px solid #444;
+}
+
+.carousel-indicators .active {
+  background-color: #444 !important;
+}
+
+</style>
+</head>
+
+<body lang="" onload="onCreate()"> <!-- onload="document.body.className='en'">-->
+	
+<nav class="navbar navbar-expand-lg bg-secondary " id="mainNav"> <!-- fixed-top -->
+	<div class="container">
+		<!--div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom box-shadow"-->
+		<a class="navbar-brand js-scroll-trigger" href="index.html"> 
+		<!--img src="kapapilogo_WHITE.png" width="60" height="60" alt="">KapaPi Software OÜ</a-->
+			<img src="img/kapapilogo.svg" width="60" height="60" alt="">KapaPi Software OÜ
+		</a> 
+				
+		<select id='cbLang' onchange="doLang(this);" onfocus="this.selectedIndex = -1;">
+			<option selected>English</option>
+			<option>Ελληνικά</option>
+		</select>
+	
+	</div>
+</nav>
+	 <header class="masthead bg-primary text-white text-center">
+            <div class="container d-flex align-items-center flex-column">
+                <!-- Masthead Avatar Image-->
+				<!--img class="masthead-avatar mb-5" src="assets/img/avataaars.svg" alt=""-->
+                <!-- Masthead Heading-->
+                <h1 class="masthead-heading mb-0">Business software</h1>
+                <!-- Icon Divider-->
+                <div class="divider-custom divider-light">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <!-- Masthead Subheading-->
+                <p class="pre-wrap masthead-subheading font-weight-light mb-0">Accounting - Sales - Cost calculation</p>
+            </div>
+        </header>
+	
+   <div  class=" px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+      <h1 class="display-4">CostMan</h1>
+      <p lang='el' class="lead">To CostMan είναι λογισμικό κοστολόγησης. Σας βοηθάει να κοστολογήσετε εύκολα και με ακρίβεια τα προϊόντα, τα εμπορεύματα και τις υπηρεσίες που προσφέρετε στους πελάτες σας.</p>
+	  <p lang='el' class="lead"><a href="costmangr01.html"> περισσότερα..</a></p>
+	  <p lang='en' class="lead">CostMan is a software that helps you calculate the cost of products and services that you offer to your customers.</p>
+    </div>
+	
+	
+    <div  class=" px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+      <h1 class="display-4">KP Books</h1>
+      <p lang='el'  class="lead">To KP Books είναι το λογισμικό που σας δίνει μια ξεκάθαρη εικόνα για το πως πηγαίνει η επιχείρησή σας.</p>
+	  <p lang='en'  class="lead">KP Books is an accounting software that lets you have a clear look at how your business is doing.</p>
+	  <p lang='en' class="lead"><a href="kpbooks01en.html"> more..</a></p>
+	  <p lang='el' class="lead"><a href="kpbooks01gr.html"> περισσότερα..</a></p>
+    </div>
+
+
+
+
+<footer class=" footer text-center py-5 ">
+
+		<div class="row ">
+			<div class="col-6 col-md text-center">
+				<!--mg class="mb-2" src="kapapilogo.svg" alt="" width="24" height="24"-->
+				<small class="d-block mb-3 ">Copyright © 2022 KapaPi Software OU </small>
+				
+				<small class="d-block mb-3 ">Logo Created by monogramframes.com</small>
+				<!--<p><small class="d-block mb-3 text-muted">
+				DNS Powered by <font color="#006699"><a href="http://www.dnsExit.com">DNS</a></font><a href="http://www.dnsExit.com"><font color="#FF6600">EXIT</font>.COM</a></small></p> -->
+				<small class="d-block mb-3 ">	<a href="privacy-policy-kapapi.html" style="color:white; ">privacy policy</a></small>
+			</div>
+
+			<div class="col-6 col-md text-center">
+				<h6>KapaPi Software OÜ</h6>
+				<ul class="list-unstyled text-small">
+					<li>registry code 14540898</li>
+					<li>Kuusalu vald, Pudisoo küla, Männimäe, 74626, Estonia </li>					
+				</ul>
+				<div class="d-flex flex-column align-items-center">
+					<div> <i class="far fa-envelope"></i>
+						<a class="lead font-weight-bold" href="mailto:kapapisoftware@gmail.com"  style="color:white;">kapapisoftware@gmail.com</a>
+					</div>						
+				</div>
+			</div>
+		</div><!-- row -->
+	
+</footer><!-- footer -->
+
+</body>
+
+</html>

@@ -1,0 +1,15 @@
+{
+  "name": "kapapi_com",
+  "version": "1.0.0",
+  "description": "kapapi website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-markdown-it": "^0.1.1"
+  }
+}

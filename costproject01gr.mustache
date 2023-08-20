@@ -1,0 +1,42 @@
+{{> header}}
+
+<script>
+function doLang( e) 
+	  {
+	    
+		localStorage.setItem("langindex", e.selectedIndex);
+		//if(e.selectedIndex == 0)
+		//	window.location.href = "kpbooks01en.html";
+	  }
+</script>
+
+
+<header class="masthead bg-primary text-white text-center">
+            <div class="container d-flex align-items-center flex-column">
+                <h1 class="masthead-heading mb-0">Διαχείρηση Εργων</h1>
+                <!-- Icon Divider-->
+                <div class="divider-custom divider-light">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <!-- Masthead Subheading-->
+                <p class="pre-wrap masthead-subheading font-weight-light mb-0">Προυπολογίστε το κόστος ενός έργου και τυπώστε προσφορά για τον πελάτη σας</p>
+
+            </div>
+</header>
+
+
+
+	
+	<div class="text-center" >
+
+  <script src="https://cdn.paddle.com/paddle/paddle.js"></script>
+        <script type="text/javascript">
+            Paddle.Setup({ vendor: 119097 });
+        </script>
+        <a href="#!" class="paddle_button" data-product="631441">Αγορά τώρα!</a>
+	</div>
+  <div style="height: 20px; background-color: rgba(255,0,0,0);"></div>
+  </div>
+{{> footer}}

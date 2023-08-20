@@ -1,0 +1,34 @@
+{{> header}}
+
+<script>
+	function doLang( e) 
+	{	    
+		localStorage.setItem("langindex", e.selectedIndex);
+		if(e.selectedIndex == 0)
+			window.location.href = "kpbooks_ver_en.html";;
+	}
+</script>
+
+<header class="masthead bg-primary text-white text-center">
+	<h2>Εκδόσεις kp-Books</h2>
+</header>
+
+<div class="container">
+    <div class="row">
+        <p><b>21/6/2021 έκδοση 2.3.9</b> 
+        <br>- Βελτιώσεις στην εισαγωγή δεδομένων από αρχείο Excel (αρχικά υπόλοιπα)
+        <br>- Ημερομηνία έναρξης χρήσης του προγράμματος (Μενού "Ρυθμίσεις"-"Προειδοποίηση ημερομηνιών")
+        <br>- Πιστωτικό σημείωμα πελάτη
+        <br>- Διορθώσεις λαθών 
+        </p>
+    </div>
+    <div class="row">
+        <p><b>3/2/2021 έκδοση 2.3.6</b> 
+        <br>- Εισαγωγή δεδομένων από αρχείο Excel
+        <br>- Εξαγωγή δεδομένων σε αρχείο Excel
+        <br>- Ο χρήστης ορίζει πόσα δεκαδικά ψηφία να έχουν οι τιμές πώλησης και αγοράς των ειδών
+        </p>
+    </div>
+</div>
+
+{{> footer}}

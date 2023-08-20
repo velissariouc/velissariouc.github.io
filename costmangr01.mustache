@@ -1,0 +1,35 @@
+{{> header}}
+
+<script>
+function doLang( e) 
+	  {
+	    
+		localStorage.setItem("langindex", e.selectedIndex);
+		if(e.selectedIndex == 0)
+			window.location.href = "index.html";
+	  }
+</script>
+
+<header class="masthead bg-primary text-white text-center">
+            <div class="container d-flex align-items-center flex-column">
+<h1 class="masthead-heading mb-0">CostMan for Windows</h1>
+                <!-- Icon Divider-->
+                <div class="divider-custom divider-light">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <!-- Masthead Subheading-->
+                <p class="pre-wrap masthead-subheading font-weight-light mb-0">Η εφαρμογή περέχει μερικά έτοιμα παραδείγματα κοστολόγησης. Η παρακάτω εικόνα είναι απο το παράδειγμα του εστιατορίου.</p>
+ 
+
+
+</div>
+        </header>
+
+<div class="container">
+  <div class="row">
+    <img src="img/costofbread.png" class="img-fluid-90 "/>		
+  </div>	
+</div>
+{{> footer}}

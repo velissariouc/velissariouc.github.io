@@ -1,0 +1,108 @@
+08/12/20 07:47:08 PM ============== hi from cvLogger 2 ===============
+08/12/20 07:47:48 PM TServiceActivation.Add dataStr={"MachineID":"15693805359134563616","MachineInfo":"","InstallationKey":"LciW/BCpuzMV0cT2hN0Z6gr5q5eEVdsL2j/kse9YYW4="}
+08/12/20 07:47:48 PM InstallationKey=LciW/BCpuzMV0cT2hN0Z6gr5q5eEVdsL2j/kse9YYW4= => SalesID=18
+08/12/20 07:47:48 PM create release code: for Κοστολόγηση (CostManSA) machineid=15693805359134563616
+08/12/20 07:47:48 PM dataStr = {"ID":0,"customerName":"ΒΕΛΙΣΣΑΡΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΣ","productName":"Κοστολόγηση (CostManSA)","installationKey":"","salesDetailId":18,"licenseType":0,"numberOfLicenses":0,"dateFrom":"2017-01-16","dateTo":"2023-03-01","CreatedAt":0,"ModifiedAt":0,"ReleaseCodeHex":"7FBE441862B303280000"}
+08/12/20 07:48:53 PM TServiceActivation.Add dataStr={"MachineId":"9693688802689446672","InstallationKey":"iygMPw00DtNQXn3GmAekFtHMo35VHhJ2ml9t9EQUtj8="}
+08/12/20 07:48:53 PM InstallationKey=iygMPw00DtNQXn3GmAekFtHMo35VHhJ2ml9t9EQUtj8= => SalesID=16
+08/12/20 07:48:53 PM create release code: for Οικονομικη ανάλυση machineid=9693688802689446672
+08/12/20 07:48:53 PM dataStr = {"ID":0,"customerName":"ΒΕΛΙΣΣΑΡΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΣ","productName":"Οικονομικη ανάλυση","installationKey":"","salesDetailId":16,"licenseType":0,"numberOfLicenses":0,"dateFrom":"2017-01-16","dateTo":"2020-12-19","CreatedAt":0,"ModifiedAt":0,"ReleaseCodeHex":"FE5D9F3AFCB7E5E60000"}
+08/12/20 07:56:57 PM stop
+08/12/20 08:08:36 PM ============== hi from cvLogger 2 ===============
+08/12/20 08:08:58 PM stop
+08/12/20 08:09:13 PM ============== hi from cvLogger 2 ===============
+08/12/20 08:11:02 PM TServiceActivation.Add dataStr={"MachineID":"9693688802689446672","MachineInfo":"","InstallationKey":"LciW/BCpuzMV0cT2hN0Z6gr5q5eEVdsL2j/kse9YYW4="}
+08/12/20 08:11:02 PM InstallationKey=LciW/BCpuzMV0cT2hN0Z6gr5q5eEVdsL2j/kse9YYW4= => SalesID=18
+08/12/20 08:11:02 PM create release code: for Κοστολόγηση (CostManSA) machineid=9693688802689446672
+08/12/20 08:11:02 PM dataStr = {"ID":0,"customerName":"ΒΕΛΙΣΣΑΡΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΣ","productName":"Κοστολόγηση (CostManSA)","installationKey":"","salesDetailId":18,"licenseType":0,"numberOfLicenses":0,"dateFrom":"2017-01-16","dateTo":"2023-03-01","CreatedAt":0,"ModifiedAt":0,"ReleaseCodeHex":"7C7CD0D64BE563450000"}
+08/13/20 05:25:00 AM TServiceActivation.Add dataStr={"MachineId":"1582349658666952079","InstallationKey":"iygMPw00DtNQXn3GmAekFtHMo35VHhJ2ml9t9EQUtj8="}
+08/13/20 05:25:00 AM InstallationKey=iygMPw00DtNQXn3GmAekFtHMo35VHhJ2ml9t9EQUtj8= => SalesID=16
+08/13/20 05:25:00 AM create release code: for Οικονομικη ανάλυση machineid=1582349658666952079
+08/13/20 05:25:00 AM all available licenses are already activated
+08/13/20 05:25:00 AM ERROR: all available licenses are already activated
+08/13/20 05:26:01 AM TServiceActivation.Add dataStr={"MachineId":"1582349658666952079","InstallationKey":"iygMPw00DtNQXn3GmAekFtHMo35VHhJ2ml9t9EQUtj8="}
+08/13/20 05:26:01 AM InstallationKey=iygMPw00DtNQXn3GmAekFtHMo35VHhJ2ml9t9EQUtj8= => SalesID=16
+08/13/20 05:26:01 AM create release code: for Οικονομικη ανάλυση machineid=1582349658666952079
+08/13/20 05:26:01 AM dataStr = {"ID":0,"customerName":"ΒΕΛΙΣΣΑΡΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΣ","productName":"Οικονομικη ανάλυση","installationKey":"","salesDetailId":16,"licenseType":0,"numberOfLicenses":0,"dateFrom":"2017-01-16","dateTo":"2020-12-19","CreatedAt":0,"ModifiedAt":0,"ReleaseCodeHex":"94F706A363BA24320000"}
+08/13/20 06:34:31 AM TServiceActivation.Add dataStr={"MachineID":"9693688802689446672","MachineInfo":"","InstallationKey":"LciW/BCpuzMV0cT2hN0Z6gr5q5eEVdsL2j/kse9YYW4="}
+08/13/20 06:34:31 AM InstallationKey=LciW/BCpuzMV0cT2hN0Z6gr5q5eEVdsL2j/kse9YYW4= => SalesID=18
+08/13/20 06:34:31 AM create release code: for Κοστολόγηση (CostManSA) machineid=9693688802689446672
+08/13/20 06:34:31 AM dataStr = {"ID":0,"customerName":"ΒΕΛΙΣΣΑΡΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΣ","productName":"Κοστολόγηση (CostManSA)","installationKey":"","salesDetailId":18,"licenseType":0,"numberOfLicenses":0,"dateFrom":"2017-01-16","dateTo":"2023-03-01","CreatedAt":0,"ModifiedAt":0,"ReleaseCodeHex":"7C7CD0D64BE563450000"}
+08/17/20 06:13:27 AM TServiceActivation.Add dataStr=
+08/17/20 06:13:27 AM ==> invalid machine id= Exception="" is an invalid integer
+08/17/20 06:13:27 AM ERROR: ==> invalid machine id= Exception="" is an invalid integer
+08/17/20 11:43:24 AM TServiceActivation.Add dataStr={"MachineId":"1582349658666952079","InstallationKey":"iygMPw00DtNQXn3GmAekFtHMo35VHhJ2ml9t9EQUtj8="}
+08/17/20 11:43:24 AM InstallationKey=iygMPw00DtNQXn3GmAekFtHMo35VHhJ2ml9t9EQUtj8= => SalesID=16
+08/17/20 11:43:24 AM create release code: for Οικονομικη ανάλυση machineid=1582349658666952079
+08/17/20 11:43:24 AM dataStr = {"ID":0,"customerName":"ΒΕΛΙΣΣΑΡΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΣ","productName":"Οικονομικη ανάλυση","installationKey":"","salesDetailId":16,"licenseType":0,"numberOfLicenses":0,"dateFrom":"2017-01-16","dateTo":"2020-12-19","CreatedAt":0,"ModifiedAt":0,"ReleaseCodeHex":"94F706A363BA24320000"}
+08/20/20 01:48:32 PM TServiceActivation.Add dataStr={"MachineID":"15693805359134563616","MachineInfo":"","InstallationKey":"LciW/BCpuzMV0cT2hN0Z6gr5q5eEVdsL2j/kse9YYW4="}
+08/20/20 01:48:32 PM InstallationKey=LciW/BCpuzMV0cT2hN0Z6gr5q5eEVdsL2j/kse9YYW4= => SalesID=18
+08/20/20 01:48:32 PM create release code: for Κοστολόγηση (CostManSA) machineid=15693805359134563616
+08/20/20 01:48:32 PM dataStr = {"ID":0,"customerName":"ΒΕΛΙΣΣΑΡΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΣ","productName":"Κοστολόγηση (CostManSA)","installationKey":"","salesDetailId":18,"licenseType":0,"numberOfLicenses":0,"dateFrom":"2017-01-16","dateTo":"2023-03-01","CreatedAt":0,"ModifiedAt":0,"ReleaseCodeHex":"7FBE441862B303280000"}
+08/20/20 02:58:04 PM TServiceActivation.Add dataStr={"MachineID":"9693688802689446672","MachineInfo":"","InstallationKey":"LciW/BCpuzMV0cT2hN0Z6gr5q5eEVdsL2j/kse9YYW4="}
+08/20/20 02:58:04 PM InstallationKey=LciW/BCpuzMV0cT2hN0Z6gr5q5eEVdsL2j/kse9YYW4= => SalesID=18
+08/20/20 02:58:04 PM create release code: for Κοστολόγηση (CostManSA) machineid=9693688802689446672
+08/20/20 02:58:04 PM dataStr = {"ID":0,"customerName":"ΒΕΛΙΣΣΑΡΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΣ","productName":"Κοστολόγηση (CostManSA)","installationKey":"","salesDetailId":18,"licenseType":0,"numberOfLicenses":0,"dateFrom":"2017-01-16","dateTo":"2023-03-01","CreatedAt":0,"ModifiedAt":0,"ReleaseCodeHex":"7C7CD0D64BE563450000"}
+08/20/20 03:29:03 PM TServiceActivation.Add dataStr={"MachineID":"15693805359134563616","MachineInfo":"","InstallationKey":"LciW/BCpuzMV0cT2hN0Z6gr5q5eEVdsL2j/kse9YYW4="}
+08/20/20 03:29:03 PM InstallationKey=LciW/BCpuzMV0cT2hN0Z6gr5q5eEVdsL2j/kse9YYW4= => SalesID=18
+08/20/20 03:29:03 PM create release code: for Κοστολόγηση (CostManSA) machineid=15693805359134563616
+08/20/20 03:29:03 PM dataStr = {"ID":0,"customerName":"ΒΕΛΙΣΣΑΡΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΣ","productName":"Κοστολόγηση (CostManSA)","installationKey":"","salesDetailId":18,"licenseType":0,"numberOfLicenses":0,"dateFrom":"2017-01-16","dateTo":"2023-03-01","CreatedAt":0,"ModifiedAt":0,"ReleaseCodeHex":"7FBE441862B303280000"}
+08/22/20 09:58:38 AM TServiceActivation.Add dataStr=
+08/22/20 09:58:38 AM ==> invalid machine id= Exception="" is an invalid integer
+08/22/20 09:58:38 AM ERROR: ==> invalid machine id= Exception="" is an invalid integer
+08/22/20 10:12:55 AM TServiceActivation.Add dataStr={"MachineID":"9693688802689446672","MachineInfo":"","InstallationKey":"LciW/BCpuzMV0cT2hN0Z6gr5q5eEVdsL2j/kse9YYW4="}
+08/22/20 10:12:55 AM InstallationKey=LciW/BCpuzMV0cT2hN0Z6gr5q5eEVdsL2j/kse9YYW4= => SalesID=18
+08/22/20 10:12:55 AM create release code: for Κοστολόγηση (CostManSA) machineid=9693688802689446672
+08/22/20 10:12:55 AM dataStr = {"ID":0,"customerName":"ΒΕΛΙΣΣΑΡΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΣ","productName":"Κοστολόγηση (CostManSA)","installationKey":"","salesDetailId":18,"licenseType":0,"numberOfLicenses":0,"dateFrom":"2017-01-16","dateTo":"2023-03-01","CreatedAt":0,"ModifiedAt":0,"ReleaseCodeHex":"7C7CD0D64BE563450000"}
+08/24/20 07:53:46 AM TServiceActivation.Add dataStr={"MachineId":"9693688802689446672","InstallationKey":"LciW/BCpuzMV0cT2hN0Z6gr5q5eEVdsL2j/kse9YYW4="}
+08/24/20 07:53:46 AM InstallationKey=LciW/BCpuzMV0cT2hN0Z6gr5q5eEVdsL2j/kse9YYW4= => SalesID=18
+08/24/20 07:53:46 AM create release code: for Κοστολόγηση (CostManSA) machineid=9693688802689446672
+08/24/20 07:53:46 AM dataStr = {"ID":0,"customerName":"ΒΕΛΙΣΣΑΡΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΣ","productName":"Κοστολόγηση (CostManSA)","installationKey":"","salesDetailId":18,"licenseType":0,"numberOfLicenses":0,"dateFrom":"2017-01-16","dateTo":"2023-03-01","CreatedAt":0,"ModifiedAt":0,"ReleaseCodeHex":"7C7CD0D64BE563450000"}
+08/24/20 02:21:22 PM TServiceActivation.Add dataStr={"MachineID":"9693688802689446672","MachineInfo":"","InstallationKey":"LciW/BCpuzMV0cT2hN0Z6gr5q5eEVdsL2j/kse9YYW4="}
+08/24/20 02:21:22 PM InstallationKey=LciW/BCpuzMV0cT2hN0Z6gr5q5eEVdsL2j/kse9YYW4= => SalesID=18
+08/24/20 02:21:22 PM create release code: for Κοστολόγηση (CostManSA) machineid=9693688802689446672
+08/24/20 02:21:22 PM dataStr = {"ID":0,"customerName":"ΒΕΛΙΣΣΑΡΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΣ","productName":"Κοστολόγηση (CostManSA)","installationKey":"","salesDetailId":18,"licenseType":0,"numberOfLicenses":0,"dateFrom":"2017-01-16","dateTo":"2023-03-01","CreatedAt":0,"ModifiedAt":0,"ReleaseCodeHex":"7C7CD0D64BE563450000"}
+09/01/20 02:21:55 AM TServiceActivation.Add dataStr={"MachineID":"15693805359134563616","MachineInfo":"","InstallationKey":"LciW/BCpuzMV0cT2hN0Z6gr5q5eEVdsL2j/kse9YYW4="}
+09/01/20 02:21:55 AM InstallationKey=LciW/BCpuzMV0cT2hN0Z6gr5q5eEVdsL2j/kse9YYW4= => SalesID=18
+09/01/20 02:21:55 AM create release code: for Κοστολόγηση (CostManSA) machineid=15693805359134563616
+09/01/20 02:21:55 AM dataStr = {"ID":0,"customerName":"ΒΕΛΙΣΣΑΡΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΣ","productName":"Κοστολόγηση (CostManSA)","installationKey":"","salesDetailId":18,"licenseType":0,"numberOfLicenses":0,"dateFrom":"2017-01-16","dateTo":"2023-03-01","CreatedAt":0,"ModifiedAt":0,"ReleaseCodeHex":"7FBE441862B303280000"}
+09/08/20 02:28:36 PM TServiceActivation.Add dataStr={"MachineID":"15693805359134563616","MachineInfo":"","InstallationKey":"LciW/BCpuzMV0cT2hN0Z6gr5q5eEVdsL2j/kse9YYW4="}
+09/08/20 02:28:36 PM InstallationKey=LciW/BCpuzMV0cT2hN0Z6gr5q5eEVdsL2j/kse9YYW4= => SalesID=18
+09/08/20 02:28:36 PM create release code: for Κοστολόγηση (CostManSA) machineid=15693805359134563616
+09/08/20 02:28:36 PM dataStr = {"ID":0,"customerName":"ΒΕΛΙΣΣΑΡΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΣ","productName":"Κοστολόγηση (CostManSA)","installationKey":"","salesDetailId":18,"licenseType":0,"numberOfLicenses":0,"dateFrom":"2017-01-16","dateTo":"2023-03-01","CreatedAt":0,"ModifiedAt":0,"ReleaseCodeHex":"7FBE441862B303280000"}
+09/15/20 04:12:34 PM TServiceActivation.Add dataStr=
+09/15/20 04:12:34 PM ==> invalid machine id= Exception="" is an invalid integer
+09/15/20 04:12:34 PM ERROR: ==> invalid machine id= Exception="" is an invalid integer
+09/27/20 07:51:21 AM TServiceActivation.Add dataStr={"MachineId":"9693688802689446672","InstallationKey":"ZATRT48+2xVeb/1ncF50LgjfEDIsub0kF9jAGnqmuo8="}
+09/27/20 07:51:21 AM InstallationKey=ZATRT48+2xVeb/1ncF50LgjfEDIsub0kF9jAGnqmuo8= => SalesID=19
+09/27/20 07:51:21 AM create release code: for Κοστολόγηση Εργων machineid=9693688802689446672
+09/27/20 07:51:21 AM dataStr = {"ID":0,"customerName":"ΒΕΛΙΣΣΑΡΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΣ","productName":"Κοστολόγηση Εργων","installationKey":"","salesDetailId":19,"licenseType":0,"numberOfLicenses":0,"dateFrom":"2017-01-16","dateTo":"2029-12-19","CreatedAt":0,"ModifiedAt":0,"ReleaseCodeHex":"DC11A9FE275E2B550000"}
+09/27/20 07:54:55 AM TServiceActivation.Add dataStr={"MachineId":"9693688802689446672","InstallationKey":"ZATRT48+2xVeb/1ncF50LgjfEDIsub0kF9jAGnqmuo8="}
+09/27/20 07:54:55 AM InstallationKey=ZATRT48+2xVeb/1ncF50LgjfEDIsub0kF9jAGnqmuo8= => SalesID=19
+09/27/20 07:54:55 AM create release code: for Κοστολόγηση Εργων machineid=9693688802689446672
+09/27/20 07:54:55 AM dataStr = {"ID":0,"customerName":"ΒΕΛΙΣΣΑΡΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΣ","productName":"Κοστολόγηση Εργων","installationKey":"","salesDetailId":19,"licenseType":0,"numberOfLicenses":0,"dateFrom":"2017-01-16","dateTo":"2029-12-19","CreatedAt":0,"ModifiedAt":0,"ReleaseCodeHex":"DC11A9FE275E2B550000"}
+09/27/20 08:14:23 AM TServiceActivation.Add dataStr={"MachineId":"9693688802689446672","InstallationKey":"ZATRT48+2xVeb/1ncF50LgjfEDIsub0kF9jAGnqmuo8="}
+09/27/20 08:14:23 AM InstallationKey=ZATRT48+2xVeb/1ncF50LgjfEDIsub0kF9jAGnqmuo8= => SalesID=19
+09/27/20 08:14:23 AM create release code: for Κοστολόγηση Εργων machineid=9693688802689446672
+09/27/20 08:14:23 AM dataStr = {"ID":0,"customerName":"ΒΕΛΙΣΣΑΡΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΣ","productName":"Κοστολόγηση Εργων","installationKey":"","salesDetailId":19,"licenseType":0,"numberOfLicenses":0,"dateFrom":"2017-01-16","dateTo":"2029-12-19","CreatedAt":0,"ModifiedAt":0,"ReleaseCodeHex":"DC11A9FE275E2B550000"}
+09/27/20 08:19:30 AM TServiceActivation.Add dataStr={"MachineId":"9693688802689446672","InstallationKey":"ZATRT48+2xVeb/1ncF50LgjfEDIsub0kF9jAGnqmuo8="}
+09/27/20 08:19:30 AM InstallationKey=ZATRT48+2xVeb/1ncF50LgjfEDIsub0kF9jAGnqmuo8= => SalesID=19
+09/27/20 08:19:30 AM create release code: for Κοστολόγηση Εργων machineid=9693688802689446672
+09/27/20 08:19:30 AM dataStr = {"ID":0,"customerName":"ΒΕΛΙΣΣΑΡΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΣ","productName":"Κοστολόγηση Εργων","installationKey":"","salesDetailId":19,"licenseType":0,"numberOfLicenses":0,"dateFrom":"2017-01-16","dateTo":"2029-12-19","CreatedAt":0,"ModifiedAt":0,"ReleaseCodeHex":"DC11A9FE275E2B550000"}
+09/30/20 12:47:30 PM TServiceActivation.Add dataStr={"MachineId":"8682170689951591690","InstallationKey":"ZATRT48+2xVeb/1ncF50LgjfEDIsub0kF9jAGnqmuo8="}
+09/30/20 12:47:30 PM InstallationKey=ZATRT48+2xVeb/1ncF50LgjfEDIsub0kF9jAGnqmuo8= => SalesID=19
+09/30/20 12:47:30 PM create release code: for Κοστολόγηση Εργων machineid=8682170689951591690
+09/30/20 12:47:30 PM dataStr = {"ID":0,"customerName":"ΒΕΛΙΣΣΑΡΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΣ","productName":"Κοστολόγηση Εργων","installationKey":"","salesDetailId":19,"licenseType":0,"numberOfLicenses":0,"dateFrom":"2017-01-16","dateTo":"2029-12-19","CreatedAt":0,"ModifiedAt":0,"ReleaseCodeHex":"C5881D4049339D640000"}
+10/05/20 09:47:26 AM stop
+10/05/20 10:09:47 AM ============== hi from cvLogger 2 ===============
+10/05/20 10:32:02 AM ============== TServiceRemoteSQL.Execute ===============
+10/05/20 10:32:02 AM UPDATE Customer SET Name='ΒΕΛΙΣΣΑΡΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΣ', EMail='velissariouc@gmail.com' WHERE ID=2
+10/05/20 11:21:28 AM ============== TServiceRemoteSQL.Execute ===============
+10/05/20 11:21:28 AM DELETE FROM Product WHERE ID=5
+10/05/20 11:21:32 AM ============== TServiceRemoteSQL.Execute ===============
+10/05/20 11:21:32 AM DELETE FROM Product WHERE ID=7
+10/05/20 11:21:38 AM ============== TServiceRemoteSQL.Execute ===============
+10/05/20 11:21:38 AM DELETE FROM Product WHERE ID=6
+10/05/20 11:24:25 AM ============== TServiceRemoteSQL.Execute ===============
+10/05/20 11:24:25 AM DELETE FROM Product WHERE ID=8
+10/08/20 03:38:09 PM stop
